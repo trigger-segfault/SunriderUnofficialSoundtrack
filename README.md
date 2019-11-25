@@ -37,5 +37,5 @@ Scripts and guides for ID'ing, gathering, and compiling the soundtracks for all 
 
 #### Art Assets
 
-- [ ] Upload small icons used for documentation sources.
+- [x] Upload small icons used for documentation sources.
 - [ ] Upload files and `.pdn`'s that may be used for soundtrack album covers.
