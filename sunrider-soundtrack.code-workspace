@@ -1,24 +1,24 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
     "[json]": {
-      "editor.useTabStops": false,
+      "editor.insertSpaces": true,
       "editor.tabSize": 2
     },
     "[jsonc]": {
-      "editor.useTabStops": false,
-			"editor.tabSize": 2
+      "editor.insertSpaces": true,
+      "editor.tabSize": 2
     },
     "[markdown]": {
-      "editor.useTabStops": false,
+      "editor.insertSpaces": true,
       "editor.tabSize": 2
     },
     "[python]": {
-      "editor.useTabStops": false,
+      "editor.insertSpaces": true,
       "editor.tabSize": 4
     }
   }
