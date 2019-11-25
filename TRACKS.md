@@ -151,11 +151,11 @@ All basic Metadata is given for tracks, although it may differ from the metadata
 Icon Album: https://imgur.com/a/JILwkXz
 -->
 
-[DL]: https://i.imgur.com/bSvQ9R1.png "Direct Download"
-[Jamendo]: https://i.imgur.com/dRKzQoz.png "Jamendo"
-[Bandcamp]: https://i.imgur.com/LzhTdRm.png "Bandcamp"
-[Incompetech]: https://i.imgur.com/F75wTMZ.png "Incompetech"
-[AmachaMusic]: https://i.imgur.com/88gvPrz.png "Amacha Music Studio"
-[SoundCloud]: https://i.imgur.com/W48o4BF.png "SoundCloud"
-[SAMFreeMusic]: https://i.imgur.com/CwtkeB8.png "SAM Free Music"
-[InternetArchive]: https://i.imgur.com/2NFzLvX.png "Archived"
+[DL]: assets/img/DL.png "Direct Download"
+[Jamendo]: assets/img/Jamendo.png "Jamendo"
+[Bandcamp]: assets/img/Bandcamp.png "Bandcamp"
+[Incompetech]: assets/img/Incompetech.png "Incompetech"
+[AmachaMusic]: assets/img/AmachaMusic.png "Amacha Music Studio"
+[SoundCloud]: assets/img/SoundCloud.png "SoundCloud"
+[SAMFreeMusic]: assets/img/SAMFreeMusic.png "SAM Free Music"
+[InternetArchive]: assets/img/InternetArchive.png "Archived"
