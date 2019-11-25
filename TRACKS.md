@@ -1,28 +1,8 @@
 # SUNRIDER: Soundtrack Sources
 
-⚠️ **Important:** Filenames are still likely to change early on, so it is recommended to keep a link to the root repository [https://github.com/trigger-segfault/SunriderUnofficialSoundtrack](https://github.com/trigger-segfault/SunriderUnofficialSoundtrack) instead of specific file lists of track sources.
-
 Below is a list dedicated to identifying **every** track in every Sunrider game and also giving a source to where it can be obtained.
 
 All basic Metadata is given for tracks, although it may differ from the metadata in the game data. (Such as *One Day in August*)
-
-### TODO
-
-- [ ] Confirm all track filename accuracy.
-- [ ] Confirm all track metadata title accuracy.
-- [ ] Confirm correct links are used where copy and paste was most prominant.
-- [ ] Epic Soul Factory (Archive.org) <kbd>MoA</kbd>
-- [ ] Epic Soul Factory (Bandcamp) <kbd>MoA</kbd>
-- [ ] Sunrider Academy Tracks (Amacha Music) <kbd>SA</kbd>
-- [ ] Lyrics tracks (Various, StoreEnby) <kbd>MoA</kbd> <kbd>LD</kbd> <kbd>SA</kbd>
-- [ ] Better formatting of column widths
-- [ ] Decide on use of sub/sup to replace to small.
-- [ ] Singles source for SAM Free Music and Amacha Music Studio. <kbd>MoA</kbd> <kbd>SA</kbd>
-- [ ] Decide on a method for displaying translations vs. originals.
-- [ ] Confirm sources tags <kbd>MoA</kbd> <kbd>LD</kbd> <kbd>SA</kbd>
-- [ ] List of commonly mispelled track names.
-- [ ] Additional documentation about each source.
-- [ ] Split this into multiple files. One that lists sources from ID'ed files, and a seperate one that ID's all game data files to a track name and artist.
 
 
 # Tracks
