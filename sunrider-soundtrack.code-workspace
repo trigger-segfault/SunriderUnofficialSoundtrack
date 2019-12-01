@@ -13,6 +13,14 @@
       "editor.insertSpaces": true,
       "editor.tabSize": 2
     },
+    "[yaml]": {
+      "editor.insertSpaces": true,
+      "editor.tabSize": 2
+    },
+    "[ini]": {
+      "editor.insertSpaces": true,
+      "editor.tabSize": 2
+    },
     "[markdown]": {
       "editor.insertSpaces": true,
       "editor.tabSize": 2
