@@ -9,7 +9,7 @@ This **is not** a comprehensive list of all available sources, there are many di
 
 `*.avi` and `*.webm` track files are the videos used during the Opening Scenes, the audio track can be separated from the video using tools like **FFmpeg**.
 
-Firn <kbd>ED</kbd> <kbd>crop</kbd> is a direct crop from the full version of Firn, as such it is not really necissary for album collection, nor is it sold or displayed anywhere. (The difference is only 5:1 vs. 5:50)
+Firn <kbd>ED</kbd> <kbd>crop</kbd> is a direct crop from the full version of Firn, as such it is not really necessary for album collection, nor is it sold or displayed anywhere. (The difference is only 5:1 vs. 5:50)
 
 <!--
 The Opening/Ending tracks used in the game are a bit different from the other tracks. First their source is directly known due to their development for the series, but the issue is that sources to buy them are scattered and even more inconsistant than Jamendo<->Bandcamp.
