@@ -19,6 +19,7 @@ Scripts and guides for ID'ing, gathering, and compiling the soundtracks for all 
 
 #### Meta
 
+- [ ] Rename document files to lowercase casing to separate from repo-specific files(?)
 - [ ] Create dedicated repository `TODO.md` list file.
 - [ ] Improve table formatting to reduce excessive column word-wrapping.
 - [x] Split TRACKS.md into multiple files:
