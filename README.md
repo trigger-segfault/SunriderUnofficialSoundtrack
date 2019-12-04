@@ -22,10 +22,7 @@ Scripts and guides for ID'ing, gathering, and compiling the soundtracks for all 
 - [ ] Rename document files to lowercase casing to separate from repo-specific files(?)
 - [ ] Create dedicated repository `TODO.md` list file.
 - [ ] Improve table formatting to reduce excessive column word-wrapping.
-- [x] Split TRACKS.md into multiple files:
-  - In progress...
-  - [ ] A List of game filenames ID'ed to song titles and artists.
-  - [ ] A List of song titles and artists with additional metadata and sources to obtain said tracks.
+- [x] Split TRACKS.md into multiple files.
 - [ ] Determine best method for documenting track's with Japanese metadata and their translations.
 
 #### Documentation
@@ -33,7 +30,7 @@ Scripts and guides for ID'ing, gathering, and compiling the soundtracks for all 
 - [ ] Legend for icons and game tags such as <kbd>MoA</kbd>, <kbd>LD</kbd>, <kbd>SA</kbd>, <kbd>FA</kbd>, and <kbd>unused</kbd>.
 - [ ] Finish and upload write-ups for each track source and how its used and functions.
 - [x] Collect and list all Epic Soul Factory tracks. <sup>(for Archived Jamendo and Bandcamp)</sup>
-- [ ] Collect and list all Sunrider Academy tracks and sources. <sup>(pretty much all from Amacha Music)</sup>
+- [X] Collect and list all Sunrider Academy tracks and sources. <sup>(pretty much all from Amacha Music)</sup>
 - [x] Collect and list all vocals OP/ED tracks and inserts/bonus tracks.
 - [ ] Create list of commonly mispelled track names. <sup>(such as "Overpower**ed**", "Posthumus Reg**n**um" (not "Reg**i**um"), etc.)</sup>
 - [ ] Upload compiled list of track appearance orders for each game.
