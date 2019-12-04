@@ -31,6 +31,7 @@ Scripts and guides for ID'ing, gathering, and compiling the soundtracks for all 
 - [ ] Finish and upload write-ups for each track source and how its used and functions.
 - [x] Collect and list all Epic Soul Factory tracks. <sup>(for Archived Jamendo and Bandcamp)</sup>
 - [X] Collect and list all Sunrider Academy tracks and sources. <sup>(pretty much all from Amacha Music)</sup>
+- [ ] Add rough English translations for Sunrider Academy tracks.
 - [x] Collect and list all vocals OP/ED tracks and inserts/bonus tracks.
 - [ ] Create list of commonly mispelled track names. <sup>(such as "Overpower**ed**", "Posthumus Reg**n**um" (not "Reg**i**um"), etc.)</sup>
 - [ ] Upload compiled list of track appearance orders for each game.
