@@ -1,0 +1,249 @@
+## Kevin MacLeod Artist: Incompetech,Filmmusic ##
+
+artists:
+  kevin-macleod: &artist@kevin-macleod
+    name: Kevin MacLeod
+    sources:
+      incompetech:  &source@incompetech+artist@kevin-macleod
+        src:  incompetech
+        name: Kevin MacLeod
+        id:       incompetech
+        url:      https://incompetech.com/
+        info:     https://incompetech.com/music/royalty-free/full_list.php
+      filmmusic:    &source@filmmusic+artist@kevin-macleod
+        src:  filmmusic
+        name: Kevin MacLeod
+        id:       incompetech
+        url:      https://incompetech.filmmusic.io/
+
+## Kevin MacLeod Albums: Royalty Free,Scoring: Wonder,Famous Classics,Latin Sounds ##
+
+albums:
+  kevin-macleod-royalty-free: &album@kevin-macleod-royalty-free
+    artist: *artist@kevin-macleod
+    name:   Royalty Free
+    year:   2014
+    sources:
+      incompetech:  &source@incompetech+album@kevin-macleod-royalty-free
+        artist: *source@incompetech+artist@kevin-macleod
+        name:  Royalty Free
+        year:  2014
+        id:       royalty-free
+        url:      https://incompetech.com/music/royalty-free/full_list.php
+        info:     https://incompetech.com/music/royalty-free/music.html
+      filmmusic:    &source@filmmusic+artist@kevin-macleod
+        src:  filmmusic
+        name: Kevin MacLeod
+        id:       incompetech
+        url:      https://incompetech.filmmusic.io/search/
+
+  kevin-macleod-scoring-wonder: &album@kevin-macleod-scoring-wonder
+    artist: *artist@kevin-macleod
+    name: "Scoring: Wonder"
+    year:  2007
+    sources:
+      incompetech:  &source@incompetech+album@kevin-macleod-scoring-wonder
+        artist: *source@incompetech+artist@kevin-macleod
+        name: "Scoring: Wonder"
+        year:  2007
+        id:       scoring-wonder
+
+  kevin-macleod-famous-classics: &album@kevin-macleod-famous-classics
+    artist: *artist@kevin-macleod
+    name:  Famous Classics
+    year:  2007
+    sources:
+      incompetech:  &source@incompetech+album@kevin-macleod-famous-classics
+        artist: *source@incompetech+artist@kevin-macleod
+        name:  Famous Classics
+        year:  2007
+        id:       famous-classics
+
+  kevin-macleod-latin-sounds: &album@kevin-macleod-latin-sounds
+    artist: *artist@kevin-macleod
+    name:  Latin Sounds
+    year:  2006
+    sources:
+      incompetech:  &source@incompetech+album@kevin-macleod-latin-sounds
+        artist: *source@incompetech+artist@kevin-macleod
+        name:  Latin Sounds
+        year:  2006
+        id:       latin-sounds
+
+## Kevin MacLeod Tracks ##
+
+tracks:
+  ## Kevin MacLeod - Royalty Free ##
+  anguish: &track@anguish
+    artist: *artist@kevin-macleod
+    album:  *album@kevin-macleod-royalty-free
+    name:   Anguish
+    year:   2014
+    files:
+      LD:  [Anguish.ogg]
+    sources:
+      incompetech:  &source@incompetech+track@anguish
+        artist: *source@incompetech+artist@kevin-macleod
+        album:  *source@incompetech+album@kevin-macleod-royalty-free
+        name: Anguish
+        year: 2014
+        id:       usuan1400047/Anguish
+        url:     "https://incompetech.com/music/royalty-free/index.html?isrc=usuan1400047"
+        dl:      "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Anguish.mp3"
+      filmmusic:    &source@filmmusic+track@anguish
+        artist: *source@filmmusic+artist@kevin-macleod
+        album:  *source@filmmusic+album@kevin-macleod-royalty-free
+        name: Anguish
+        year: 2014
+        id:       3373-anguish
+        url:      https://incompetech.filmmusic.io/song/3373-anguish/
+
+  run-amok: &track@run-amok
+    artist: *artist@kevin-macleod
+    album:  *album@kevin-macleod-royalty-free
+    name:   Run Amok
+    year:   2014
+    files:
+      MoA: [Run Amok.ogg]
+      LD:  [Run Amok.ogg]
+    sources:
+      incompetech:  &source@incompetech+track@run-amok
+        artist: *source@incompetech+artist@kevin-macleod
+        album:  *source@incompetech+album@kevin-macleod-royalty-free
+        name: Run Amok
+        year: 2014
+        id:       usuan1400024/Run Amok
+        url:     "https://incompetech.com/music/royalty-free/index.html?isrc=usuan1400024"
+        dl:      "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Run%20Amok.mp3"
+      filmmusic:    &source@filmmusic+track@run-amok
+        artist: *source@filmmusic+artist@kevin-macleod
+        album:  *source@filmmusic+album@kevin-macleod-royalty-free
+        name: Run Amok
+        year: 2014
+        id:       4311-run-amok
+        url:      https://incompetech.filmmusic.io/song/4311-run-amok/
+
+  monkeys-spinning-monkeys: &track@monkeys-spinning-monkeys
+    artist: *artist@kevin-macleod
+    album:  *album@kevin-macleod-royalty-free
+    name:   Monkeys Spinning Monkeys
+    year:   2014
+    files:
+      MoA: [Monkeys_Spinning_Monkeys.ogg]
+      LD:  [Monkeys_Spinning_Monkeys.ogg]
+    sources:
+      incompetech:  &source@incompetech+track@monkeys-spinning-monkeys
+        artist: *source@incompetech+artist@kevin-macleod
+        album:  *source@incompetech+album@kevin-macleod-royalty-free
+        name: Monkeys Spinning Monkeys
+        year: 2014
+        id:       usuan1400011/Monkeys Spinning Monkeys
+        url:     "https://incompetech.com/music/royalty-free/index.html?isrc=usuan1400011"
+        dl:      "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Monkeys%20Spinning%20Monkeys.mp3"
+      filmmusic:    &source@filmmusic+track@monkeys-spinning-monkeys
+        artist: *source@filmmusic+artist@kevin-macleod
+        album:  *source@filmmusic+album@kevin-macleod-royalty-free
+        name: Monkeys Spinning Monkeys
+        year: 2014
+        id:       4071-monkeys-spinning-monkeys
+        url:      https://incompetech.filmmusic.io/song/4071-monkeys-spinning-monkeys/
+
+  volatile-reaction: &track@volatile-reaction
+    artist: *artist@kevin-macleod
+    album:  *album@kevin-macleod-royalty-free
+    name:   Volatile Reaction
+    year:   2014
+    files:
+      LD:  [VolatileReaction.ogg]
+    sources:
+      incompetech:  &source@incompetech+track@volatile-reaction
+        artist: *source@incompetech+artist@kevin-macleod
+        album:  *source@incompetech+album@kevin-macleod-royalty-free
+        name: Volatile Reaction
+        year: 2014
+        id:       usuan1400039/Volatile Reaction
+        url:     "https://incompetech.com/music/royalty-free/index.html?isrc=usuan1400039"
+        dl:      "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Volatile%20Reaction.mp3"
+      filmmusic:    &source@filmmusic+track@volatile-reaction
+        artist: *source@filmmusic+artist@kevin-macleod
+        album:  *source@filmmusic+album@kevin-macleod-royalty-free
+        name: Volatile Reaction
+        year: 2019
+        id:       5014-volatile-reaction
+        url:      https://incompetech.filmmusic.io/song/5014-volatile-reaction/
+
+  ## Kevin MacLeod - Scoring: Wonder ##
+  arcadia: &track@arcadia
+    artist: *artist@kevin-macleod
+    album:  *album@kevin-macleod-scoring-wonder
+    name:   Arcadia
+    year:   2007
+    files:
+      MoA: [Arcadia.ogg]
+    sources:
+      incompetech:  &source@incompetech+track@arcadia
+        artist: *source@incompetech+artist@kevin-macleod
+        album:  *source@incompetech+album@kevin-macleod-scoring-wonder
+        name: Arcadia
+        year: 2007
+        id:       usuan1100326/Arcadia
+        url:     "https://incompetech.com/music/royalty-free/index.html?isrc=usuan1100326"
+        dl:      "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Arcadia.mp3"
+      filmmusic:    &source@filmmusic+track@arcadia
+        artist: *source@filmmusic+artist@kevin-macleod
+        album:  *source@filmmusic+album@kevin-macleod-royalty-free
+        name: Arcadia
+        year: 2007
+        id:       3377-arcadia
+        url:      https://incompetech.filmmusic.io/song/3377-arcadia/
+
+  ## Kevin MacLeod - Famous Classics ##
+  wagner-bridal-chorus: &track@wagner-bridal-chorus
+    artist: *artist@kevin-macleod
+    album:  *album@kevin-macleod-famous-classics
+    name:   Wagner Bridal Chorus
+    year:   2007
+    files:
+      MoA: [wedding_march.ogg]
+    sources:
+      incompetech:  &source@incompetech+track@wagner-bridal-chorus
+        artist: *source@incompetech+artist@kevin-macleod
+        album:  *source@incompetech+album@kevin-macleod-famous-classics
+        name: Wagner Bridal Chorus
+        year: 2007
+        id:       usuan1100021/Wagner Bridal Chorus
+        url:     "https://incompetech.com/music/royalty-free/index.html?isrc=usuan1100021"
+        dl:      "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wagner%20Bridal%20Chorus.mp3"
+      filmmusic:    &source@filmmusic+track@wagner-bridal-chorus
+        artist: *source@filmmusic+artist@kevin-macleod
+        album:  *source@filmmusic+album@kevin-macleod-royalty-free
+        name: Wagner Bridal Chorus
+        year: 2007
+        id:       4599-wagner-bridal-chorus
+        url:      https://incompetech.filmmusic.io/song/4599-wagner-bridal-chorus/
+
+  ## Kevin MacLeod - Latin Sounds ##
+  as-i-figure: &track@as-i-figure
+    artist: *artist@kevin-macleod
+    album:  *album@kevin-macleod-latin-sounds
+    name:   As I Figure
+    year:   2006
+    files:
+      MoA: [As_I_Figure.ogg]
+    sources:
+      incompetech:  &source@incompetech+track@as-i-figure
+        artist: *source@incompetech+artist@kevin-macleod
+        album:  *source@incompetech+album@kevin-macleod-latin-sounds
+        name: As I Figure
+        year: 2006
+        id:       usuan1100323/As I Figure
+        url:     "https://incompetech.com/music/royalty-free/index.html?isrc=usuan1100323"
+        dl:      "https://incompetech.com/music/royalty-free/mp3-royaltyfree/As%20I%20Figure.mp3"
+      filmmusic:    &source@filmmusic+track@as-i-figure
+        artist: *source@filmmusic+artist@kevin-macleod
+        album:  *source@filmmusic+album@kevin-macleod-royalty-free
+        name: As I Figure
+        year: 2006
+        id:       3383-as-i-figure
+        url:      https://incompetech.filmmusic.io/song/3383-as-i-figure/
+

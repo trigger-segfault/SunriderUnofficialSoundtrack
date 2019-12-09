@@ -1,0 +1,742 @@
+#### WORK IN PROGRESS ####
+#### OLD DATA ###
+
+### JAMENDO ###
+
+## Adrián Berenguer (ANBR) ##
+ # Camino
+- files:
+    LD:  [Camino.ogg, Camino_end.ogg]
+  metadata:
+    title:   Camino
+    artist:  Adrián Berenguer
+    album:   Camino
+    year:    2014
+    number:  7
+  sources:
+    - {src: jamendo,  id: 1157090, urlname: camino, kind: track}
+    - {src: bandcamp, urlartist: adrianberenguer, urlname: camino, kind: track}
+    #- {src: jamendo,  url: https://www.jamendo.com/track/1157090/camino, dl: https://storage.jamendo.com/download/track/1157090/mp32/camino}
+    #- {src: bandcamp, url: https://adrianberenguer.bandcamp.com/track/camino}
+    # jamendo:
+    # - {url: https://www.jamendo.com/track/1157090/camino, dl: https://storage.jamendo.com/download/track/1157090/mp32/camino}
+    # bandcamp:
+    # - [https://adrianberenguer.bandcamp.com/track/camino]
+
+## Akashic Records ##
+ # The Final Battle (epic trailer)
+- files:
+    LD:  [The_Final_Battle.ogg, The_Final_Battle_Cut.ogg]
+  metadata:
+    title:   The Final Battle (epic trailer)
+    artist:  Akashic Records
+    album:   The Final Battle (epic trailer)
+    year:    2014
+    number:  1
+  sources:
+    - {src: jamendo,  id: 1158371, urlname: the-final-battle-epic-trailer, kind: track}
+    # jamendo:
+    # - [https://www.jamendo.com/track/1158371/the-final-battle-epic-trailer, https://storage.jamendo.com/download/track/1158371/mp32/the-final-battle-epic-trailer]
+
+ # Epic Action Hero
+- files:
+    LD:  [Epic_Action_Hero.ogg]
+  metadata:
+    title:   Epic Action Hero
+    artist:  Akashic Records
+    album:   Epic Action Hero
+    year:    2014
+    number:  1
+  sources:
+    - {src: jamendo,  id: 1154518, urlname: epic-action-hero, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/1154518/epic-action-hero, https://storage.jamendo.com/download/track/1154518/mp32/epic-action-hero]
+
+## Amacha Music Studio ##
+- files:
+    MoA: [boukyou.ogg]
+  metadata:
+    title:  [Boukyou, Nostalgia]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, urlname: boukyou, kind: track}
+    #amacha_music:
+    #- [https://amachamusic.chagasi.com/music_boukyou.html, https://amachamusic.chagasi.com/mp3/boukyou.mp3]
+
+- files:
+    MoA: [harunokagayaki.ogg]
+  metadata:
+    title:  [Harunokagayaki, Spring's Shine]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, urlname: harunokagayaki, kind: track}
+    #amacha_music:
+    #- [https://amachamusic.chagasi.com/music_harunokagayaki.html, https://amachamusic.chagasi.com/mp3/harunokagayaki.mp3]
+
+- files:
+    MoA: [hinokageri.ogg]
+  metadata:
+    title:  [Hinokageri, Sun's Shade]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, urlname: hinokageri, kind: track}
+    #amacha_music:
+    #- [https://amachamusic.chagasi.com/music_hinokageri.html, https://amachamusic.chagasi.com/mp3/hinokageri.mp3]
+
+- files:
+    MoA: [hinokageri_orchestra.ogg]
+  metadata:
+    title:  [Hinokageri (orchestral), Sun's Shade (orchestral)]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, urlname: hinokageri_orchestra, kind: track}
+    #amacha_music:
+    #- [https://amachamusic.chagasi.com/music_hinokageri_orchestra.html, https://amachamusic.chagasi.com/mp3/hinokageri_orchestra.mp3]
+
+## Arnaud Condé ##
+ # COMING SOON (remastered)
+- files:
+    MoA: [Coming_Soon_Part1.ogg, Coming_Soon_Part2.ogg, Coming_Soon_End.ogg]
+  metadata:
+    title:   Coming Soon
+    artist:  Arnaud Condé
+    album:   COMING SOON (remastered)
+    year:    2012
+    number:  1
+  sources:
+    - {src: jamendo,  id: 898539, urlname: coming-soon, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/898539/coming-soon, https://storage.jamendo.com/download/track/898539/mp32/coming-soon]
+
+- files:
+    MoA: [The_Bladed_Druid.ogg, Bladed_Druid_Cut.ogg]
+    LD:  [The_Bladed_Druid.ogg, The_Bladed_Druid_Pt2.ogg]
+  metadata:
+    title:   The Bladed Druid
+    artist:  Arnaud Condé
+    album:   COMING SOON (remastered)
+    year:    2012
+    number:  2
+  sources:
+    - {src: jamendo,  id: 898547, urlname: the-bladed-druid, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/898547/the-bladed-druid, https://storage.jamendo.com/download/track/898547/mp32/the-bladed-druid]
+
+- files:
+    MoA: [Riding_With_the_Wind.ogg]
+    LD:  [Riding_With_the_Wind.ogg]
+  metadata:
+    title:   Riding With The Wind
+    artist:  Arnaud Condé
+    album:   COMING SOON (remastered)
+    year:    2012
+    number:  4
+  sources:
+    - {src: jamendo,  id: 898548, urlname: riding-with-the-wind, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/898548/riding-with-the-wind, https://storage.jamendo.com/download/track/898548/mp32/riding-with-the-wind]
+
+- files:
+    MoA: [Posthumus_Regium.ogg, Posthumus_Regium_Finale.ogg]
+    LD:  [Posthumus_Regnum.ogg, Posthumus_Regnum_Cut.ogg]
+  metadata:
+    title:   Posthumus Regnum
+    artist:  Arnaud Condé
+    album:   COMING SOON (remastered)
+    year:    2012
+    number:  6
+  sources:
+    - {src: jamendo,  id: 898542, urlname: posthumus-regnum, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/898542/posthumus-regnum, https://storage.jamendo.com/download/track/898542/mp32/posthumus-regnum]
+
+- files:
+    MoA: [Love_Theme.ogg]
+    LD:  [Love_Theme.ogg]
+  metadata:
+    title:   Love Theme
+    artist:  Arnaud Condé
+    album:   COMING SOON (remastered)
+    year:    2012
+    number:  8
+  sources:
+    - {src: jamendo,  id: 898545, urlname: love-theme, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/898545/love-theme, https://storage.jamendo.com/download/track/898545/mp32/love-theme]
+
+- files:
+    MoA: [Sui_Generis.ogg]
+  metadata:
+    title:   Sui Generis
+    artist:  Arnaud Condé
+    album:   COMING SOON (remastered)
+    year:    2012
+    number:  9
+  sources:
+    - {src: jamendo,  id: 898546, urlname: sui-generis, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/898546/sui-generis, https://storage.jamendo.com/download/track/898546/mp32/sui-generis]
+
+ # "Velvorn : The Bladed Druid - Act 3 Soundtrack"
+- files:
+    MoA: [A_Dark_Dream.ogg]
+  metadata:
+    title:   A Dark Dream
+    artist:  Arnaud Condé
+    album:  "Velvorn : The Bladed Druid - Act 3 Soundtrack"
+    year:    2010
+    number:  6
+  sources:
+    - {src: jamendo,  id: 519477, urlname: a-dark-dream, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/519477/a-dark-dream, https://storage.jamendo.com/download/track/519477/mp32/a-dark-dream]
+
+- files:
+    MoA: [The Tumbrel.ogg]
+  metadata:
+    title:   The Tumbrel
+    artist:  Arnaud Condé
+    album:  "Velvorn : The Bladed Druid - Act 3 Soundtrack"
+    year:    2010
+    number:  8
+  sources:
+    - {src: jamendo,  id: 519474, urlname: the-tumbrel, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/519474/the-tumbrel, https://storage.jamendo.com/download/track/519474/mp32/the-tumbrel]
+
+- files:
+    MoA: [The_Flight_of_the_Crow.ogg]
+  metadata:
+    title:   The Flight Of The Crow
+    artist:  Arnaud Condé
+    album:  "Velvorn : The Bladed Druid - Act 3 Soundtrack"
+    year:    2010
+    number:  11
+  sources:
+    - {src: jamendo,  id: 519476, urlname: the-flight-of-the-crow, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/519476/the-flight-of-the-crow, https://storage.jamendo.com/download/track/519476/mp32/the-flight-of-the-crow]
+
+ # "Velvorn : The Bladed Druid, Bande-Originale de l'Acte 2"
+- files:
+    MoA: [The_Departure.ogg]
+  metadata:
+    title:  [Le départ, The Departure]
+    artist:  Arnaud Condé
+    album:  "Velvorn : The Bladed Druid, Bande-Originale de l'Acte 2"
+    year:    2009
+    number:  3
+  sources:
+    - {src: jamendo,  id: 275794, urlname: le-depart, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/275794/le-depart, https://storage.jamendo.com/download/track/275794/mp32/le-depart]
+
+- files:
+    MoA: [The_Rest_of_the_Ents.ogg]
+  metadata:
+    title:   [À la recherche des Ents, The Rest of the Ents]
+    artist:  Arnaud Condé
+    album:  "Velvorn : The Bladed Druid, Bande-Originale de l'Acte 2"
+    year:    2009
+    number:  5
+  sources:
+    - {src: jamendo,  id: 275791, urlname: a-la-recherche-des-ents, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/275791/a-la-recherche-des-ents, https://storage.jamendo.com/download/track/275791/mp32/a-la-recherche-des-ents]
+
+- files:
+    MoA: [Invasion of Chaos.ogg]
+  metadata:
+    title:  [L'invasion du Chaos, Invasion of Chaos]
+    artist:  Arnaud Condé
+    album:  "Velvorn : The Bladed Druid, Bande-Originale de l'Acte 2"
+    year:    2009
+    number:  6
+  sources:
+    - {src: jamendo,  id: 275802, urlname: l-invasion-du-chaos, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/275802/l-invasion-du-chaos, https://storage.jamendo.com/download/track/275802/mp32/l-invasion-du-chaos]
+
+## Benjamin Groenke ##
+- files:
+    LD:  [Destinys_Path.ogg, Destinys_Path_Cut.ogg]
+  metadata:
+    title:   Destinys Path
+    artist:  Benjamin Groenke
+    year:    2015
+  sources:
+    - {src: jamendo,  id: 1190744, urlname: destinys-path, kind: track}
+    - {src: bandcamp, urlartist: benjamingroenke, urlname: destinys-path, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/1190744/destinys-path, https://storage.jamendo.com/download/track/1190744/mp32/destinys-path]
+    #bandcamp:
+    #- [https://benjamingroenke.bandcamp.com/track/destinys-path]
+
+## Celestial Aeon Project / Matti Paalanen ##
+ # World in Flames
+- files:
+    MoA: [Valve.ogg]
+  metadata:
+    title:   Valve
+    artist:  Celestial Aeon Project
+    album:   World in Flames
+    year:    2011
+    number:  3
+  sources:
+    - {src: jamendo,  id: 818613, urlname: valve, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/818613/valve, https://storage.jamendo.com/download/track/818613/mp32/valve]
+
+- files:
+    MoA: [New_Dawn.ogg]
+  metadata:
+    title:   New Dawn
+    artist:  Celestial Aeon Project
+    album:   World in Flames
+    year:    2011
+    number:  6
+  sources:
+    - {src: jamendo,  id: 818611, urlname: new-dawn, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/818611/new-dawn, https://storage.jamendo.com/download/track/818611/mp32/new-dawn]
+
+- files:
+    MoA: [Driving_the_Top_Down.ogg]
+    LD:  [Danger.ogg]
+  metadata:
+    title:   Driving the Top Down
+    artist:  Celestial Aeon Project
+    album:   World in Flames
+    year:    2011
+    number:  9
+  sources:
+    - {src: jamendo,  id: 818616, urlname: driving-the-top-down, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/818616/driving-the-top-down, https://storage.jamendo.com/download/track/818616/mp32/driving-the-top-down]
+
+ # The Fall of Ragnaros, Epic Music
+- files:
+    MoA: [Battle_Against_Time.ogg]
+  metadata:
+    title:   Battle Against Time
+    artist: [Celestial Aeon Project, Matti Paalanen]
+    album:  [The Fall of Ragnaros, Epic Music]
+    year:   [2011, 2017]
+    number: [6, 1]
+  sources:
+    - {src: jamendo,  id: 818606, urlname: battle-against-time, kind: track}
+    - {src: bandcamp, urlartist: mattipaalanen, urlname: battle-against-time, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/818606/battle-against-time, https://storage.jamendo.com/download/track/818606/mp32/battle-against-time]
+    #bandcamp:
+    #- [https://mattipaalanen.bandcamp.com/track/battle-against-time]
+
+## Eternal Dream ##
+ # The Fall Of Salanthine
+- files:
+    MoA: [March_of_Immortals.ogg]
+  metadata:
+    title:  [March Of Immortals, The March Of The Immortals]
+    artist:  Eternal Dream
+    album:   The Fall Of Salanthine
+    year:    2011
+    number:  1
+  sources:
+    - {src: jamendo,  id: 897626, urlname: march-of-immortals, kind: track}
+    - {src: bandcamp, urlartist: eternaldream, urlname: 01-the-march-of-the-immortals, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/897626/march-of-immortals, https://storage.jamendo.com/download/track/897626/mp32/march-of-immortals]
+    #bandcamp:
+    #- [https://eternaldream.bandcamp.com/track/01-the-march-of-the-immortals]
+
+## Kevin MacLeod ##
+ # Royalty Free
+- files:
+    LD:  [Anguish.ogg]
+  metadata:
+    title:   Anguish
+    artist:  Kevin MacLeod
+    album:   Royalty Free
+    year:    2014
+  sources:
+    - {src: incompetech, isrc: usuan1400047, urlname: Anguish}
+    #incompetech:
+    #- ["https://incompetech.com/music/royalty-free/index.html?isrc=usuan1400047", https://incompetech.com/music/royalty-free/mp3-royaltyfree/Anguish.mp3]
+
+- files:
+    MoA: [Monkeys_Spinning_Monkeys.ogg]
+  metadata:
+    title:   Monkeys Spinning Monkeys
+    artist:  Kevin MacLeod
+    album:   Royalty Free
+    year:    2014
+  sources:
+    - {src: incompetech, isrc: usuan1400011, urlname: Monkeys%20Spinning%20Monkeys}
+    #incompetech:
+    #- ["https://incompetech.com/music/royalty-free/index.html?isrc=usuan1400011", https://incompetech.com/music/royalty-free/mp3-royaltyfree/Monkeys%20Spinning%20Monkeys.mp3]
+
+- files:
+    MoA: [Run Amok.ogg]
+    LD:  [Run Amok.ogg]
+  metadata:
+    title:   Run Amok
+    artist:  Kevin MacLeod
+    album:   Royalty Free
+    year:    2014
+  sources:
+    - {src: incompetech, isrc: usuan1400024, urlname: Run%20Amok}
+    #incompetech:
+    #- ["https://incompetech.com/music/royalty-free/index.html?isrc=usuan1400024", https://incompetech.com/music/royalty-free/mp3-royaltyfree/Run%20Amok.mp3]
+
+- files:
+    LD:  [VolatileReaction.ogg]
+  metadata:
+    title:   Volatile Reaction
+    artist:  Kevin MacLeod
+    album:   Royalty Free
+    year:    2014
+  sources:
+    - {src: incompetech, isrc: usuan1400039, urlname: Volatile%20Reaction}
+    #incompetech:
+    #- ["https://incompetech.com/music/royalty-free/index.html?isrc=usuan1400039", https://incompetech.com/music/royalty-free/mp3-royaltyfree/Volatile%20Reaction.mp3]
+
+ # "Scoring: Wonder"
+- files:
+    MoA: [Arcadia.ogg]
+  metadata:
+    title:   Arcadia
+    artist:  Kevin MacLeod
+    album:  "Scoring: Wonder"
+    year:    2007
+  sources:
+    - {src: incompetech, isrc: usuan1100326, urlname: Arcadia}
+    #incompetech:
+    #- ["https://incompetech.com/music/royalty-free/index.html?isrc=usuan1100326", https://incompetech.com/music/royalty-free/mp3-royaltyfree/Arcadia.mp3]
+
+ # Famous Classics
+- files:
+    MoA: [wedding_march.ogg]
+  metadata:
+    title:   Wagner Bridal Chorus #, Wedding March
+    artist:  Kevin MacLeod
+    album:   Famous Classics
+    year:    2007
+  sources:
+    - {src: incompetech, isrc: usuan1100021, urlname: Wagner%20Bridal%20Chorus}
+    #incompetech:
+    #- ["https://incompetech.com/music/royalty-free/index.html?isrc=usuan1100021", https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wagner%20Bridal%20Chorus.mp3]
+
+ # Latin Sounds
+- files:
+    MoA: [As_I_Figure.ogg]
+  metadata:
+    title:   As I Figure
+    artist:  Kevin MacLeod
+    album:   Latin Sounds
+    year:    2006
+  sources:
+    - {src: incompetech, isrc: usuan1100323, urlname: As%20I%20Figure}
+    #incompetech:
+    #- ["https://incompetech.com/music/royalty-free/index.html?isrc=usuan1100323", https://incompetech.com/music/royalty-free/mp3-royaltyfree/As%20I%20Figure.mp3]
+
+## Marc Teichert ##
+ # Cinematics
+- files:
+    LD:  [Colors_Chigara.ogg, Colors_Loop.ogg, Colors_main.ogg, Colors_of_an_Orchestra_II.ogg, Colors_sad.ogg]
+  metadata:
+    title:   Colors of an Orchestra II
+    artist:  Marc Teichert
+    album:  [Cinematics, Dreamatica]
+    year:   [2015, 2015]
+    number: [7, 2]
+  sources:
+    - {src: jamendo,  id: 1191324, urlname: colors-of-an-orchestra-ii, kind: track}
+    - {src: bandcamp, urlartist: marcteichert, urlname: colors-of-an-orchestra-ii, kind: track}
+    - {src: bandcamp, urlartist: marcteichert, urlname: colors-of-an-orchestra-ii-2, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/1191324/colors-of-an-orchestra-ii, https://storage.jamendo.com/download/track/1191324/mp32/colors-of-an-orchestra-ii]
+    #bandcamp:    
+    #- [https://marcteichert.bandcamp.com/track/colors-of-an-orchestra-ii]
+    #- [https://marcteichert.bandcamp.com/track/colors-of-an-orchestra-ii-2]
+
+- files:
+    LD:  [Cracking_the_Code.ogg]
+  metadata:
+    title:   The Meteor
+    artist:  Marc Teichert
+    album:   Cinematics
+    year:    2015
+    number: [14, 13]
+  sources:
+    - {src: jamendo,  id: 1191325, urlname: cracking-the-code, kind: track}
+    - {src: bandcamp, urlartist: marcteichert, urlname: cracking-the-code, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/1191325/cracking-the-code, https://storage.jamendo.com/download/track/1191325/mp32/cracking-the-code]
+    #bandcamp:
+    #- [https://marcteichert.bandcamp.com/track/cracking-the-code]
+
+ # Tides
+- files:
+    MoA: [Tides.ogg]
+  metadata:
+    title:   Tides
+    artist:  Marc Teichert
+    album:  [Tides, A Symphonic Journey]
+    year:   [2013, 2013]
+    number: [2, 6]
+  sources:
+    - {src: jamendo,  id: 1000082, urlname: tides, kind: track}
+    - {src: bandcamp, urlartist: marcteichert, urlname: tides, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/1000082/tides, https://storage.jamendo.com/download/track/1000082/mp32/tides]
+    #bandcamp:
+    #- [https://marcteichert.bandcamp.com/track/tides]
+
+- files:
+    MoA: [DayDream_Cut.ogg] # Not actually cut
+  metadata:
+    title:   Daydream
+    artist:  Marc Teichert
+    album:  [Tides, Daydream, A Symphonic Journey]
+    year:   [2013, 2012, 2013]
+    number: [4, 1, 1]
+  sources:
+    - {src: jamendo,  id: 1000084, urlname: daydream, kind: track}
+    - {src: jamendo,  id: 912259, urlname: daydream, kind: track}
+    - {src: bandcamp, urlartist: marcteichert, urlname: daydream, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/1000084/daydream, https://storage.jamendo.com/download/track/1000084/mp32/daydream]
+    #- [https://www.jamendo.com/track/912259/daydream, https://storage.jamendo.com/download/track/912259/mp32/daydream]
+    #bandcamp:
+    #- [https://marcteichert.bandcamp.com/track/daydream]
+
+- files:
+    MoA: [The_Meteor.ogg]
+  metadata:
+    title:   The Meteor
+    artist:  Marc Teichert
+    album:  [Tides, Cinematics]
+    year:   [2013, 2015]
+    number: [5, 9]
+  sources:
+    - {src: jamendo,  id: 1000085, urlname: the-meteor, kind: track}
+    - {src: jamendo,  id: 1191333, urlname: the-meteor, kind: track}
+    - {src: bandcamp, urlartist: marcteichert, urlname: the-meteor, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/1000085/the-meteor, https://storage.jamendo.com/download/track/1000085/mp32/the-meteor]
+    #- [https://www.jamendo.com/track/1191333/the-meteor, https://storage.jamendo.com/download/track/1191333/mp32/the-meteor]
+    #bandcamp:
+    #- [https://marcteichert.bandcamp.com/track/the-meteor]
+
+- files:
+    MoA: [Daydream_Reprise.ogg]
+  metadata:
+    title:   Daydream (reprise)
+    artist:  Marc Teichert
+    album:   Tides
+    year:    2013
+    number:  7
+  sources:
+    - {src: jamendo,  id: 1000088, urlname: daydream-reprise, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/1000088/daydream-reprise, https://storage.jamendo.com/download/track/1000088/mp32/daydream-reprise]
+
+ # Daydream
+- files:
+    MoA: [Daydream_Alternate.ogg] # Unused
+  metadata:
+    title:  [Daydream (alternate), Daydream (Alternate)]
+    artist:  Marc Teichert
+    album:  [Daydream, Dreamatica]
+    year:   [2012, 2015]
+    number: [2, 4]
+  sources:
+    - {src: jamendo,  id: 912258, urlname: daydream-alternate, kind: track}
+    - {src: bandcamp, urlartist: marcteichert, urlname: daydream-alternate-2, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/912258/daydream-alternate, https://storage.jamendo.com/download/track/912258/mp32/daydream-alternate]
+    #bandcamp:
+    #- [https://marcteichert.bandcamp.com/track/daydream-alternate-2]
+
+ # Orchestral Filmmusic Collection
+- files:
+    MoA: [The_Beginning_Of_The_Adventure.ogg]
+  metadata:
+    title:   The Beginning Of The Adventure
+    artist:  Marc Teichert
+    album:   Orchestral Filmmusic Collection
+    year:    2010
+    number:  6
+  sources:
+    - {src: jamendo,  id: 589413, urlname: the-beginning-of-the-adventure, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/589413/the-beginning-of-the-adventure, https://storage.jamendo.com/download/track/589413/mp32/the-beginning-of-the-adventure]
+
+ # Music by Marc Teichert
+- files:
+    MoA: [Colors_Of_An_Orchestra.ogg]
+  metadata:
+    title:  [Colors Of An Orchestra, Colors of an Orchestra]
+    artist:  Marc Teichert
+    album:  [Music by Marc Teichert, A Symphonic Journey]
+    year:   [2009, 2013]
+    number: [1, 2]
+  sources:
+    - {src: jamendo,  id: 477306, urlname: colors-of-an-orchestra, kind: track}
+    - {src: bandcamp, urlartist: marcteichert, urlname: colors-of-an-orchestra, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/477306/colors-of-an-orchestra, https://storage.jamendo.com/download/track/477306/mp32/colors-of-an-orchestra]
+    #bandcamp:
+    #- [https://marcteichert.bandcamp.com/track/colors-of-an-orchestra]
+
+- files:
+    MoA: [Space_Ace.ogg] # Unused
+  metadata:
+    title:   Space Ace
+    artist:  Marc Teichert
+    album:  [Music by Marc Teichert, A Symphonic Journey]
+    year:   [2009, 2013]
+    number: [3, 4]
+  sources:
+    - {src: jamendo,  id: 477316, urlname: space-ace, kind: track}
+    - {src: bandcamp, urlartist: marcteichert, urlname: space-ace, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/477316/space-ace, https://storage.jamendo.com/download/track/477316/mp32/space-ace]
+    #bandcamp:
+    #- [https://marcteichert.bandcamp.com/track/space-ace]
+
+- files:
+    MoA: [One_Day_In_August.ogg]
+  metadata:
+    title:   One Day in August
+    artist:  Marc Teichert
+    album:  [null, Music by Marc Teichert, A Symphonic Journey]
+    year:   [2017, 2009, 2013]
+    number: [null, 3, 4]
+  sources:
+    # (Original source from "Music by Marc Teichert (Jamendo)" was removed)
+    - {src: jamendo,  id: 1414828, urlname: one-day-in-august, kind: track}
+    - {src: bandcamp, urlartist: marcteichert, urlname: space-ace, kind: track}
+    #jamendo:
+    ## (Original source from "Music by Marc Teichert (Jamendo)" was removed)
+    #- [https://www.jamendo.com/track/1414828/one-day-in-august, https://storage.jamendo.com/download/track/1414828/mp32/one-day-in-august]
+    #bandcamp:
+    #- [https://marcteichert.bandcamp.com/track/one-day-in-august]
+
+## Peter Rudenko ##
+ # Incomplete
+- files:
+    MoA: [Inhale.ogg] # Unused
+  metadata:
+    title:   Inhale
+    artist:  Peter Rudenko
+    album:   Incomplete
+    year:    2011
+    number:  4
+  sources:
+    - {src: jamendo,  id: 787087, urlname: inhale, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/787087/inhale, https://storage.jamendo.com/download/track/787087/mp32/inhale]
+
+## Roger Subirana Mata ##
+ # Fallen Angel
+- files:
+    LD:  [Fallen_Angel.ogg, Fallen_Angel_drone.ogg, Fallen_Angel_Pt1.ogg, Fallen_Angel_Pt2.ogg, Fallen_Angel_Pt3.ogg]
+  metadata:
+    title:   Fallen Angel
+    artist:  Roger Subirana Mata
+    album:   Fallen Angel # Technically a single
+    year:    2014
+    number:  1
+  sources:
+    - {src: jamendo,  id: 1153942, urlname: fallen-angel, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/1153942/fallen-angel, https://storage.jamendo.com/download/track/1153942/mp32/fallen-angel]
+
+## SAM Free ##
+ # SAM Free Music
+- files:
+    MoA: [SAMFREE.ogg]
+  metadata:
+    title:  [Sanpo, Stroll] # ["散歩", 「Sanpo」, "Stroll"]
+    artist:  samfree # SAM Free
+    album:  [Nagoyaka Sawayaka, Calm and Refreshing] # ["和やか・爽やか", 「Nagoyaka sawayaka」, "Calm and Refreshing"]
+    year:    2007
+    number:  6
+    # image_and_explanation: ["軽い足取り", 「Karui ashidori」, "Light gait"]
+  sources:
+    - {src: samfree_music,  id: 1153942, urlname: n06, kind: track, archived: true,
+       url: [https://web.archive.org/web/20101011113851/, http://sam-free.com/songs.html],
+       dl:  [http://web.archive.org/web/20070212005841/, http://sam-free.com/mp3/n06.mp3]}
+    #samfree_music:
+    #- [https://web.archive.org/web/20101011113851/http://sam-free.com/songs.html, http://web.archive.org/web/20070212005841/http://sam-free.com/mp3/n06.mp3]
+
+# """
+# Nagoyaka sawayaka
+# Nagoyaka sawayakakei
+# Nagoyaka sawayakakei
+# 散歩 「Sanpo」{Walk}
+# 軽い足取り Karui ashidori
+# 軽い歩行
+# 和やか
+# なごやか
+# 和やか・爽やか系 「Nagoyaka sawayaka-kei」{Peaceful & Refreshing}
+# The last character on all SAMFREE groups is '系', which just states its a "group". Cut it off.
+# """
+
+## Xcentric Noizz ##
+ # The 3RD Grape
+- files:
+    LD:  [Gore_and_Sand.ogg]
+  metadata:
+    title:   Gore and Sand
+    artist:  Xcentric Noizz
+    album:   The 3RD Grape
+    year:    2011
+    number:  12
+  sources:
+    - {src: jamendo,  id: 785738, urlname: gore-and-sand, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/785738/gore-and-sand, https://storage.jamendo.com/download/track/785738/mp32/gore-and-sand]
+
+- files:
+    LD:  [MarduksWrath.ogg]
+  metadata:
+    title:   Marduk's Wraith
+    artist:  Xcentric Noizz
+    album:   The 3RD Grape
+    year:    2011
+    number:  16
+  sources:
+    - {src: jamendo,  id: 785739, urlname: marduk-s-wraith, kind: track}
+    #jamendo:
+    #- [https://www.jamendo.com/track/785739/marduk-s-wraith, https://storage.jamendo.com/download/track/785739/mp32/marduk-s-wraith]
+
+# - files:
+#     LD:  [Camino.ogg, Camino_end.ogg]
+#   metadata:
+#     title:   Camino
+#     artist:  Adrián Berenguer
+#     album:   Camino
+#     year:    2014
+#     number:  7
+#   sources:
+#     - jamendo: { url:  https://www.jamendo.com/track/1157090/camino ,
+#                  dl:   https://storage.jamendo.com/download/track/1157090/mp32/camino }
+#     #- jamendo: { url: https://www.jamendo.com/track/1157090/camino, dl: https://storage.jamendo.com/download/track/1157090/mp32/camino }
+#     #- !Jamendo
+#     #  { url: https://www.jamendo.com/track/1157090/camino, dl: https://storage.jamendo.com/download/track/1157090/mp32/camino }
+#     #- !Source { src: , url: https://www.jamendo.com/track/1157090/camino, dl: https://storage.jamendo.com/download/track/1157090/mp32/camino }
+#     - !Jamendo {id: 1157090/camino}
+#     - !Jamendo  1157090/camino (archived) <mp33> % hi mom!
+    #- !Bandcamp adrianberenguer/camino (archived)  % notes
+    # jamendo:
+    # - {url: https://www.jamendo.com/track/1157090/camino, dl: https://storage.jamendo.com/download/track/1157090/mp32/camino}
+    # bandcamp:
+    # - [https://adrianberenguer.bandcamp.com/track/camino]
+    # - [dl: hello, url: world]
+    # - jamendo: {dl: hello, url: world}

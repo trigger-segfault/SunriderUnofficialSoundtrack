@@ -1,0 +1,562 @@
+## Epic Soul Factory Artist: Jamendo,Bandcamp ##
+
+artists:
+  epic-soul-factory: &artist@epic-soul-factory
+    name: Epic Soul Factory
+    sources:
+      jamendo:  &source@jamendo+artist@epic-soul-factory
+        src:  jamendo
+        name: Epic Soul Factory
+        id:       1366832/epic-soul-factory
+        archived: {web: 20140706141552}
+        info:     https://web.archive.org/web/20140706141552/http://www.jamendo.com/en/artist/366832/epic-soul-factory
+      bandcamp: &source@bandcamp+artist@epic-soul-factory
+        src:  bandcamp
+        name: Epic Soul Factory
+        id:       epicsoulfactory
+        url:      https://epicsoulfactory.bandcamp.com/
+
+## Epic Soul Factory Albums: Volume 2,Xpansion Edition,Volume One ##
+
+albums:
+  epic-soul-factory-volume-2: &album@epic-soul-factory-volume-2
+    artist: *artist@epic-soul-factory
+    name:   Epic Soul Factory Vol.2
+    year:   2011
+    sources:
+      jamendo:  &source@jamendo+album@epic-soul-factory-volume-2
+        artist: *source@jamendo+artist@epic-soul-factory
+        name: Epic Soul Factory - Volume 2
+        year: 2014
+        id:       130700/epic-soul-factory-volume-2
+        archived: {web: 20140121010850}
+        info:     https://web.archive.org/web/20140121010850/http://www.jamendo.com/en/list/a130700/epic-soul-factory-volume-2
+      bandcamp: &source@bandcamp+album@epic-soul-factory-volume-2
+        artist: *source@bandcamp+artist@epic-soul-factory
+        name: Epic Soul Factory Vol.2
+        year: 2011
+        id:       epic-soul-factory-vol-2
+        url:      https://epicsoulfactory.bandcamp.com/album/epic-soul-factory-vol-2
+
+  epic-soul-factory-xpansion-edition: &album@epic-soul-factory-xpansion-edition
+    artist: *artist@epic-soul-factory
+    name:   Epic Soul Factory Xpansion Edition
+    year:   2012
+    sources:
+      jamendo:  &source@jamendo+album@epic-soul-factory-xpansion-edition
+        artist: *source@jamendo+artist@epic-soul-factory
+        name: Epic Soul Factory - Xpansion Edition
+        year: 2012
+        id:       105308/epic-soul-factory-xpansion-edition
+        archived: {audio: jamendo-105308, web: 20140205194158}
+        url:      https://archive.org/details/jamendo-105308
+        dl:       https://archive.org/compress/jamendo-105308
+        info:     https://web.archive.org/web/20140205194158/http://www.jamendo.com/en/list/a105308/epic-soul-factory-xpansion-edition
+      bandcamp: &source@bandcamp+album@epic-soul-factory-xpansion-edition
+        artist: *source@bandcamp+artist@epic-soul-factory
+        name: Xpansion Edition
+        year: 2012
+        id:       xpansion-edition
+        url:      https://epicsoulfactory.bandcamp.com/album/xpansion-edition
+
+  epic-soul-factory-volume-one: &album@epic-soul-factory-volume-one
+    artist: *artist@epic-soul-factory
+    name:   Epic Soul Factory Vol.1
+    year:   2011
+    sources:
+      jamendo:  &source@jamendo+album@epic-soul-factory-volume-one
+        artist: *source@jamendo+artist@epic-soul-factory
+        name: Epic Soul Factory - Volume 1
+        year: 2011
+        id:       105308/epic-soul-factory-volume-one
+        archived: {audio: jamendo-085641, web: 20140706211839}
+        url:      https://archive.org/details/jamendo-085641
+        dl:       https://archive.org/compress/jamendo-085641
+        info:     https://web.archive.org/web/20140706211839/http://www.jamendo.com/en/list/a85641/epic-soul-factory-volume-one
+
+## Epic Soul Factory Tracks ##
+
+tracks:
+  ## Epic Soul Factory - Volume 2 ##
+  powerful: &track@powerful
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-volume-2
+    name:   Powerful
+    files:
+      MoA: [Powerful.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@powerful
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-volume-2
+        name:   Powerful
+        number: 1
+        id:       1096201/powerful
+        archived: {} #{web: 20140000000000}
+        #info:     https://web.archive.org/web/20140000000000/http://www.jamendo.com/en/track/1096201/powerful
+      bandcamp: &source@bandcamp+track@powerful
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-volume-2
+        name:  "Fran Soto - POWERFUL"
+        number: 1
+        id:       powerful
+        url:      https://epicsoulfactory.bandcamp.com/track/powerful
+
+  lighting-soul: &track@lighting-soul
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-volume-2
+    name:   Lighting Soul
+    files:
+      MoA: [Lighting_Soul.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@lighting-soul
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-volume-2
+        name:   Lighting Soul
+        number: 4
+        id:       1096211/lighting-soul
+        archived: {} #{web: 20140000000000}
+        #info:     https://web.archive.org/web/20140000000000/http://www.jamendo.com/en/track/1096211/lighting-soul
+      bandcamp: &source@bandcamp+track@lighting-soul
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-volume-2
+        name:  "Cesc Vilà - LIGHTING SOUL"
+        number: 4
+        id:       lighting-soul
+        url:      https://epicsoulfactory.bandcamp.com/track/lighting-soul
+
+  prayers: &track@prayers
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-volume-2
+    name:   Prayers
+    files:
+      MoA: [Prayers.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@prayers
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-volume-2
+        name:   Prayers
+        number: 7
+        id:       1096215/prayers
+        archived: {} #{web: 20140000000000}
+        #info:     https://web.archive.org/web/20140000000000/http://www.jamendo.com/en/track/1096215/prayers
+      bandcamp: &source@bandcamp+track@prayers
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-volume-2
+        name:  "Eduardo Jiménez - PRAYERS"
+        number: 7
+        id:       prayers
+        url:      https://epicsoulfactory.bandcamp.com/track/prayers
+
+  overpowered: &track@overpowered
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-volume-2
+    name:   Overpowered
+    files:
+      MoA: [Overpowered.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@overpowered
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-volume-2
+        name:   Overpowered
+        number: 8
+        id:       1096216/overpowered
+        archived: {} #{web: 20140000000000}
+        #info:     https://web.archive.org/web/20140000000000/http://www.jamendo.com/en/track/1096216/overpowered
+      bandcamp: &source@bandcamp+track@overpowered
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-volume-2
+        name:  "Fran Soto - OVERPOWERED"
+        number: 8
+        id:       overpowered
+        url:      https://epicsoulfactory.bandcamp.com/track/overpowered
+
+  honor: &track@honor
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-volume-2
+    name:   Honor
+    files:
+      MoA: [Honor.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@honor
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-volume-2
+        name:   Honor
+        number: 15
+        id:       1096223/honor
+        archived: {} #{web: 20140000000000}
+        #info:     https://web.archive.org/web/20140000000000/http://www.jamendo.com/en/track/1096223/honor
+      bandcamp: &source@bandcamp+track@honor
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-volume-2
+        name:  "David de la Morena - HONOR"
+        number: 15
+        id:       honor
+        url:      https://epicsoulfactory.bandcamp.com/track/honor
+
+  ## Epic Soul Factory - Xpansion Edition ##
+  world-builder: &track@world-builder
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   World Builder
+    files:
+      MoA: [WorldBuilder.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@world-builder
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:   WorldBuilder
+        number: 19
+        id:       895043/worldbuilder
+        archived: {audio: 19, web: 20120629091932}
+        url:      https://archive.org/details/jamendo-105308/19.mp3
+        dl:       https://archive.org/download/jamendo-105308/19.mp3
+        info:     https://web.archive.org/web/20120629091932/http://www.jamendo.com/en/track/895043/worldbuilder
+      bandcamp: &source@bandcamp+track@world-builder
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:   World Builder
+        number: 4
+        id:       world-builder
+        url:      https://epicsoulfactory.bandcamp.com/track/world-builder
+
+  march-to-glory: &track@march-to-glory
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   March to Glory
+    files:
+      MoA: [March_to_Glory.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@march-to-glory
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:  "Eduardo jimenez - March to Glory"
+        number: 5
+        id:       894990/march-to-glory
+        archived: {audio: 05, web: 20120629090651}
+        url:      https://archive.org/details/jamendo-105308/05.mp3
+        dl:       https://archive.org/download/jamendo-105308/05.mp3
+        info:     https://web.archive.org/web/20120629090651/http://www.jamendo.com/en/track/894990/march-to-glory
+      bandcamp: &source@bandcamp+track@march-to-glory
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:   March to Glory
+        number: 5
+        id:       march-to-glory
+        url:      https://epicsoulfactory.bandcamp.com/track/march-to-glory
+
+  tokyo-lights: &track@tokyo-lights
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   Tokyo lights
+    files:
+      MoA: [Tokyo_Lights.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@tokyo-lights
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:  "Cesc Vilà - Tokyo lights"
+        number: 6
+        id:       894992/tokyo-lights
+        archived: {audio: 06, web: 20120629090655}
+        url:      https://archive.org/details/jamendo-105308/06.mp3
+        dl:       https://archive.org/download/jamendo-105308/06.mp3
+        info:     https://web.archive.org/web/20120629090655/http://www.jamendo.com/en/track/894992/tokyo-lights
+      bandcamp: &source@bandcamp+track@tokyo-lights
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:   Tokyo Lights
+        number: 6
+        id:       tokyo-lights
+        url:      https://epicsoulfactory.bandcamp.com/track/tokyo-lights
+
+  star-of-bethlehem: &track@star-of-bethlehem
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   Star of Bethlehem
+    files:
+      MoA: [Star_of_Bethlehem.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@star-of-bethlehem
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:  "David de la Morena - Star of Bethlehem"
+        number: 8
+        id:       894995/star-of-bethlehem
+        archived: {audio: 08, web: 20120629091055}
+        url:      https://archive.org/details/jamendo-105308/08.mp3
+        dl:       https://archive.org/download/jamendo-105308/08.mp3
+        info:     https://web.archive.org/web/20120629091055/http://www.jamendo.com/en/track/894995/star-of-bethlehem
+      bandcamp: &source@bandcamp+track@star-of-bethlehem
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:   Star of Bethlehem
+        number: 7
+        id:       star-of-bethlehem
+        url:      https://epicsoulfactory.bandcamp.com/track/star-of-bethlehem
+
+  grasping-some-beauty: &track@grasping-some-beauty
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   Grasping some beauty
+    files:
+      MoA: [Grasping_Some_Beauty.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@grasping-some-beauty
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:  "Cesc Vilà - Grasping some beauty"
+        number: 11
+        id:       895004/grasping-some-beauty
+        archived: {audio: 11, web: 20120629091105}
+        url:      https://archive.org/details/jamendo-105308/11.mp3
+        dl:       https://archive.org/download/jamendo-105308/11.mp3
+        info:     https://web.archive.org/web/20120629091105/http://www.jamendo.com/en/track/895004/grasping-some-beauty
+      bandcamp: &source@bandcamp+track@grasping-some-beauty
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:     Grasping some beauty
+        number: 9
+        id:       grasping-some-beauty
+        url:      https://epicsoulfactory.bandcamp.com/track/grasping-some-beauty
+
+  moonlit-night: &track@moonlit-night
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   Moonlit Night
+    files:
+      MoA: [Moonlit_Night.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@moonlit-night
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:  "David de la Morena - Moonlit Night"
+        number: 12
+        id:       895013/moonlit-night
+        archived: {audio: 12, web: 20120629090705}
+        url:      https://archive.org/details/jamendo-105308/12.mp3
+        dl:       https://archive.org/download/jamendo-105308/12.mp3
+        info:     https://web.archive.org/web/20120629090705/http://www.jamendo.com/en/track/895013/moonlit-night
+      bandcamp: &source@bandcamp+track@moonlit-night
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:     Moonlit Night
+        number: 10
+        id:       moonlit-night
+        url:      https://epicsoulfactory.bandcamp.com/track/moonlit-night
+
+  intruders: &track@intruders
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   Intruders
+    files:
+      MoA: [Intruders.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@intruders
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:  "Eduardo Jimenez - Intruders"
+        number: 13
+        id:       895015/intruders
+        archived: {audio: 13, web: 20120629091915}
+        url:      https://archive.org/details/jamendo-105308/13.mp3
+        dl:       https://archive.org/download/jamendo-105308/13.mp3
+        info:     https://web.archive.org/web/20120629091915/http://www.jamendo.com/en/track/895015/intruders
+      bandcamp: &source@bandcamp+track@intruders
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:     Intruders
+        number: 11
+        id:       intruders
+        url:      https://epicsoulfactory.bandcamp.com/track/intruders
+
+  proditionis: &track@proditionis
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   Proditionis
+    files:
+      MoA: [Proditionis.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@proditionis
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:  "Eduardo Jimenez - Proditionis"
+        number: 14
+        id:       895019/proditionis
+        archived: {audio: 14, web: 20120629090710}
+        url:      https://archive.org/details/jamendo-105308/14.mp3
+        dl:       https://archive.org/download/jamendo-105308/14.mp3
+        info:     https://web.archive.org/web/20120629090710/http://www.jamendo.com/en/track/895019/proditionis
+      bandcamp: &source@bandcamp+track@proditionis
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:     Proditionis
+        number: 12
+        id:       proditionis
+        url:      https://epicsoulfactory.bandcamp.com/track/proditionis
+
+  limitless: &track@limitless
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   Limitless
+    files:
+      MoA: [Limitless.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@limitless
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:  "Fran Soto - Limitless"
+        number: 15
+        id:       895027/limitless
+        archived: {audio: 15, web: 20120629092227}
+        url:      https://archive.org/details/jamendo-105308/15.mp3
+        dl:       https://archive.org/download/jamendo-105308/15.mp3
+        info:     https://web.archive.org/web/20120629092227/http://www.jamendo.com:80/en/track/895027/limitless
+      bandcamp: &source@bandcamp+track@limitless
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:     Limitless
+        number: 13
+        id:       limitless
+        url:      https://epicsoulfactory.bandcamp.com/track/limitless
+
+  love: &track@love
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   Love
+    files:
+      MoA: [Love.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@love
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:  "Fran Soto - Love"
+        number: 10
+        id:       895000/love
+        archived: {audio: 10, web: 20120629092222}
+        url:      https://archive.org/details/jamendo-105308/10.mp3
+        dl:       https://archive.org/download/jamendo-105308/10.mp3
+        info:     https://web.archive.org/web/20120629092222/http://www.jamendo.com/en/track/895000/love
+      bandcamp: &source@bandcamp+track@love
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:     Love
+        number: 16
+        id:       love
+        url:      https://epicsoulfactory.bandcamp.com/track/love
+
+  the-third-fall: &track@the-third-fall
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-xpansion-edition
+    name:   The Third Fall
+    files:
+      MoA: [TheThirdFall.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@the-third-fall
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-xpansion-edition
+        name:  "David de la Morena - TheThird Fall"
+        number: 18
+        id:       895041/thethird-fall
+        archived: {audio: 18, web: 20120629091927}
+        url:      https://archive.org/details/jamendo-105308/18.mp3
+        dl:       https://archive.org/download/jamendo-105308/18.mp3
+        info:     https://web.archive.org/web/20120629091927/http://www.jamendo.com/en/track/895041/thethird-fall
+      bandcamp: &source@bandcamp+track@the-third-fall
+        artist: *source@bandcamp+artist@epic-soul-factory
+        album:  *source@bandcamp+album@epic-soul-factory-xpansion-edition
+        name:     The Third Fall
+        number: 17
+        id:       the-third-fall
+        url:      https://epicsoulfactory.bandcamp.com/track/the-third-fall
+
+  ## Epic Soul Factory - Volume One ##
+  titan: &track@titan
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-volume-one
+    name:   Titan
+    files:
+      MoA: [Titan.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@titan
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-volume-one
+        name:   TITAN
+        number: 2
+        id:       732501/titan
+        archived: {audio: 02, web: 20130403183300}
+        url:      https://archive.org/details/jamendo-085641/02.mp3
+        dl:       https://archive.org/download/jamendo-085641/02.mp3
+        info:     https://web.archive.org/web/20130403183300/http://www.jamendo.com/en/track/732501/titan
+
+  poltergeist-attack: &track@poltergeist-attack
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-volume-one
+    name:   Poltergeist Attack
+    files:
+      MoA: [Poltergeist_Attack.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@poltergeist-attack
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-volume-one
+        name:   POLTERGEIST ATTACK
+        number: 4
+        id:       732505/poltergeist-attack
+        archived: {audio: 04, web: 20140601191233}
+        url:      https://archive.org/details/jamendo-085641/04.mp3
+        dl:       https://archive.org/download/jamendo-085641/04.mp3
+        info:     https://web.archive.org/web/20140601191233/http://www.jamendo.com/en/track/732505/poltergeist-attack
+
+  el-prendimiento: &track@el-prendimiento
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-volume-one
+    name:   El Prendimiento
+    files:
+      MoA: [el_prendimiento.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@el-prendimiento
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-volume-one
+        name:   EL PRENDIMIENTO
+        number: 6
+        id:       732512/el-prendimiento
+        archived: {audio: 06, web: 20130403211239}
+        url:      https://archive.org/details/jamendo-085641/06.mp3
+        dl:       https://archive.org/download/jamendo-085641/06.mp3
+        info:     https://web.archive.org/web/20130403211239/http://www.jamendo.com/en/track/732512/el-prendimiento
+
+  dusty-universe: &track@dusty-universe
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-volume-one
+    name:   Dusty Universe
+    files:
+      MoA: [Dusty_Universe.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@dusty-universe
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-volume-one
+        name:   DUSTY UNIVERSE
+        number: 7
+        id:       732519/dusty-universe
+        archived: {audio: 07, web: 20130403214434}
+        url:      https://archive.org/details/jamendo-085641/07.mp3
+        dl:       https://archive.org/download/jamendo-085641/07.mp3
+        info:     https://web.archive.org/web/20130403214434/http://www.jamendo.com/en/track/732519/dusty-universe
+
+  la-busqueda-de-ianna: &track@la-busqueda-de-ianna
+    artist: *artist@epic-soul-factory
+    album:  *album@epic-soul-factory-volume-one
+    name:  "La búsqueda de Ianna"
+    files:
+      MoA: [La_Busqueda_de_Lanna.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@la-busqueda-de-ianna
+        artist: *source@jamendo+artist@epic-soul-factory
+        album:  *source@jamendo+album@epic-soul-factory-volume-one
+        name:  "La búsqueda de Ianna"
+        number: 8
+        id:       732520/la-busqueda-de-ianna
+        archived: {audio: 08, web: 20130403214434}
+        url:      https://archive.org/details/jamendo-085641/08.mp3
+        dl:       https://archive.org/download/jamendo-085641/08.mp3
+        info:     https://web.archive.org/web/20140213104318/http://www.jamendo.com/en/track/732520/la-busqueda-de-ianna
+

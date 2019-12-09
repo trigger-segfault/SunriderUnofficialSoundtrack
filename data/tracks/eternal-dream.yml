@@ -1,0 +1,69 @@
+## Eternal Dream Artist: Jamendo,Bandcamp ##
+
+artists:
+  eternal-dream: &artist@eternal-dream
+    name: Eternal Dream
+    sources:
+      jamendo:  &source@jamendo+artist@eternal-dream
+        src:  jamendo
+        name: Eternal Dream
+        id:       343074/eternal-dream
+        url:      https://www.jamendo.com/artist/343074/eternal-dream
+      bandcamp: &source@bandcamp+artist@eternal-dream
+        src:  bandcamp
+        name: Eternal Dream
+        id:       eternaldream
+        url:      https://eternaldream.bandcamp.com/
+
+## Eternal Dream Albums: The Fall Of Salanthine ##
+
+albums:
+  eternal-dream-the-fall-of-salanthine: &album@eternal-dream-the-fall-of-salanthine
+    artist: *artist@eternal-dream
+    name:   The Fall Of Salanthine
+    year:   2012
+    sources:
+      jamendo:  &source@jamendo+album@eternal-dream-the-fall-of-salanthine
+        artist: *source@jamendo+artist@eternal-dream
+        name:  The Fall Of Salanthine
+        year:  2012
+        id:       singles
+        url:      https://www.jamendo.com/album/105618/the-fall-of-salanthine
+        dl:       https://storage.jamendo.com/download/album/105618/mp32/the-fall-of-salanthine
+      bandcamp: &source@bandcamp+album@eternal-dream-the-fall-of-salanthine
+        artist: *source@bandcamp+artist@eternal-dream
+        name:  The Fall Of Salanthine
+        year:  2011
+        id:       the-fall-of-salanthine
+        url:      https://eternaldream.bandcamp.com/album/the-fall-of-salanthine
+
+## Eternal Dream Tracks ##
+
+tracks:
+  ## Eternal Dream - The Fall Of Salanthine ##
+  march-of-immortals: &track@march-of-immortals
+    artist: *artist@eternal-dream
+    album:  *album@eternal-dream-the-fall-of-salanthine
+    name:   March Of Immortals
+    year:   2012
+    files:
+      MoA: [March_of_Immortals.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@march-of-immortals
+        artist: *source@jamendo+artist@eternal-dream
+        album:  *source@jamendo+album@eternal-dream-the-fall-of-salanthine
+        name:   March Of Immortals
+        year:   2012
+        number: 1
+        id:       897626/march-of-immortals
+        url:      https://www.jamendo.com/track/897626/march-of-immortals
+        dl:       https://storage.jamendo.com/download/track/897626/mp32/march-of-immortals
+      bandcamp: &source@bandcamp+track@march-of-immortals
+        artist: *source@bandcamp+artist@eternal-dream
+        album:  *source@bandcamp+album@eternal-dream-the-fall-of-salanthine
+        name:   The March Of The Immortals
+        year:   2011
+        number: 1
+        id:       01-the-march-of-the-immortals
+        url:      https://eternaldream.bandcamp.com/track/01-the-march-of-the-immortals
+

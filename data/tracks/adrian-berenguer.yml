@@ -1,0 +1,74 @@
+## Adrián Berenguer Artist: Jamendo,Bandcamp (Soundcloud) ##
+
+artists:
+  adrian-berenguer: &artist@adrian-berenguer
+    name: Adrián Berenguer
+    sources:
+      jamendo:  &source@jamendo+artist@adrian-berenguer
+        src:  jamendo
+        name: ANBR Adrián Berenguer
+        id:       419963/anbr-adrian-berenguer
+        url:      https://www.jamendo.com/artist/419963/anbr-adrian-berenguer
+      bandcamp: &source@bandcamp+artist@adrian-berenguer
+        src:  bandcamp
+        name: Adrián Berenguer
+        id:       adrianberenguer
+        url:      https://adrianberenguer.bandcamp.com/
+      soundcloud: &source@soundcloud+artist@adrian-berenguer
+        src:  soundcloud
+        name: Adrián Berenguer
+        id:   adri-n-berenguer
+        url:      https://soundcloud.com/adri-n-berenguer
+
+## Adrián Berenguer Albums: Camino ##
+
+albums:
+  adrian-berenguer-camino: &album@adrian-berenguer-camino
+    artist: *artist@adrian-berenguer
+    name: Camino
+    year: 2014
+    sources:
+      jamendo:  &source@jamendo+album@adrian-berenguer-camino
+        artist: *source@jamendo+artist@adrian-berenguer
+        name: Camino
+        year: 2014
+        id:       138848/camino
+        url:      https://www.jamendo.com/album/138848/camino
+        dl:       https://storage.jamendo.com/download/album/138848/mp32/camino
+      bandcamp: &source@bandcamp+album@adrian-berenguer-camino
+        artist: *source@bandcamp+artist@adrian-berenguer
+        name: Camino
+        year: 2014
+        id:       camino
+        url:      https://adrianberenguer.bandcamp.com/album/camino
+
+## Adrián Berenguer Tracks ##
+
+tracks:
+  ## Adrián Berenguer - Camino ##
+  camino: &track@camino
+    artist: *artist@adrian-berenguer
+    album:  *album@adrian-berenguer-camino
+    name:   Camino
+    year:   2014
+    files:
+      LD:  [Camino.ogg, Camino_end.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@camino
+        artist: *source@jamendo+artist@adrian-berenguer
+        album:  *source@jamendo+album@adrian-berenguer-camino
+        name:   Camino
+        number: 7
+        year:   2014
+        id:       1157090/camino
+        url:      https://www.jamendo.com/track/1157090/camino
+        dl:       https://storage.jamendo.com/download/track/1157090/mp32/camino
+      bandcamp: &source@bandcamp+track@camino
+        artist: *source@bandcamp+artist@adrian-berenguer
+        album:  *source@bandcamp+album@adrian-berenguer-camino
+        name:   Camino
+        number: 7
+        year:   2014
+        id:       camino
+        url:      https://adrianberenguer.bandcamp.com/track/camino
+

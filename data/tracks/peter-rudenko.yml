@@ -1,0 +1,61 @@
+## Peter Rudenko Artist: Jamendo (Soundcloud,GitHub) ##
+
+artists:
+  peter-rudenko: &artist@peter-rudenko
+    name: Peter Rudenko
+    sources:
+      jamendo:  &source@jamendo+artist@peter-rudenko
+        src:  jamendo
+        name: Peter Rudenko
+        id:       359037/peter-rudenko
+        url:      https://www.jamendo.com/artist/359037/peter-rudenko
+      soundcloud: &source@soundcloud+artist@peter-rudenko
+        src:  soundcloud
+        name: Peter Rudenko
+        id:   peter-rudenko
+        url:      https://soundcloud.com/peter-rudenko
+      github:
+        src:  github
+        name: Peter Rudenko
+        id:       peterrudenko
+        url:      https://github.com/peterrudenko
+
+## Peter Rudenko Albums: Incomplete ##
+
+albums:
+  peter-rudenko-incomplete: &album@peter-rudenko-incomplete
+    artist: *artist@peter-rudenko
+    name: Incomplete
+    year: 2011
+    sources:
+      jamendo:  &source@jamendo+album@peter-rudenko-incomplete
+        artist: *source@jamendo+artist@peter-rudenko
+        name: Incomplete
+        year: 2011
+        id:       92300/incomplete
+        url:      https://www.jamendo.com/album/92300/incomplete
+        dl:       https://storage.jamendo.com/download/album/92300/mp32/incomplete
+
+## Peter Rudenko Tracks ##
+
+tracks:
+  ## Peter Rudenko - Incomplete ##
+  inhale: &track@inhale
+    artist: *artist@peter-rudenko
+    album:  *album@peter-rudenko-incomplete
+    name:   Inhale
+    year:   2011
+    unused: true
+    files:
+      MoA: [Inhale.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@inhale
+        artist: *source@jamendo+artist@peter-rudenko
+        album:  *source@jamendo+album@peter-rudenko-incomplete
+        name:   Inhale
+        year:   2011
+        number: 4
+        id:       787087/inhale
+        url:      https://www.jamendo.com/track/787087/inhale
+        dl:       https://storage.jamendo.com/download/track/787087/mp32/inhale
+

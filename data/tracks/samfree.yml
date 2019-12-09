@@ -1,0 +1,138 @@
+## samfree Artist: SAM Free Music ##
+
+artists:
+  samfree: &artist@samfree
+    name:    samfree
+    altname: SAM Free Music
+    sources:
+      samfree-music:  &source@samfree-music+artist@samfree
+        src:  samfree-music
+        name:    samfree
+        altname: SAM Free Music
+        id:       samfree
+        archived: {web: 20101022080921}
+        url:      https://web.archive.org/web/20101022080921/http://sam-free.com/
+
+## samfree Albums: Nagoyaka Sawayaka ##
+
+albums:
+  samfree-n: &album@samfree-n
+    artist: *artist@samfree
+    name:    "Nagoyaka Sawayaka"
+    altname: "和やか・爽やか"
+    translation:
+      english:  "Calm and Refreshing"
+      romaji:   "Nagoyaka Sawayaka"
+      japanese: "和やか・爽やか"
+    year:   2007
+    sources:
+      samfree-music:  &source@samfree-music+album@samfree-n
+        artist: *source@samfree-music+artist@samfree
+        name:    "Nagoyaka Sawayaka"
+        altname: "和やか・爽やか"
+        translation:
+          english:  "Calm and Refreshing"
+          romaji:   "Nagoyaka Sawayaka"
+          japanese: "和やか・爽やか"
+        year: 2007
+        id:      "n"
+        archived: {web: 20101011113851}
+        url:      https://web.archive.org/web/20101011113851/http://sam-free.com/songs.html
+
+## samfree Tracks ##
+
+tracks:
+  ## samfree - Nagoyaka Sawayaka ##
+  sanpo: &track@sanpo
+    artist: *artist@samfree
+    album:  *album@samfree-n
+    name:    "Sanpo"
+    altname: "散歩"
+    translation:
+      english:  "Stroll"
+      romaji:   "Sanpo"
+      japanese: "散歩"
+    year:   2007
+    files:
+      MoA: [SAMFREE.ogg]
+    sources:
+      samfree-music:  &source@samfree-music+track@sanpo
+        artist: *source@samfree-music+artist@samfree
+        album:  *source@samfree-music+album@samfree-n
+        name:    "Sanpo"
+        altname: "散歩"
+        translation:
+          english:  "Stroll"
+          romaji:   "Sanpo"
+          japanese: "散歩"
+        year:   2007
+        number: 6
+        id:       n06
+        archived: {web: 20101011113851, webdl: 20070212005841}
+        url:      https://web.archive.org/web/20101011113851/http://sam-free.com/songs.html
+        dl:       http://web.archive.org/web/20070212005841/http://sam-free.com/mp3/n06.mp3
+
+
+# """
+# Nagoyaka sawayaka
+# Nagoyaka sawayakakei
+# Nagoyaka sawayakakei
+# 散歩 「Sanpo」{Walk}
+# 軽い足取り Karui ashidori
+# 軽い歩行
+# 和やか
+# なごやか
+# 和やか・爽やか系 「Nagoyaka sawayaka-kei」{Peaceful & Refreshing}
+# The last character on all SAMFREE groups is '系', which just states its a "group". Cut it off.
+# """
+
+# http://sam-free.com/
+# Website for a large collection of general use-case tracks created by SAM FREE Music
+# that were made available for public use. Many tracks were available in both MP3 and
+# MIDI format. (however no MIDI formats were ever succesfully archived)
+# ------------
+# This message is present for all pages archived on October 29, 2010 or later:
+#   “SAM Free Music” was closed on October 29, 2010.
+#   Thank you for your patronage over the years.
+# https://web.archive.org/web/20101122122221/http://sam-free.com/
+
+# These are the relevant archived pages before the shutdown on October 29, 2010:
+
+# HOME: sam-free.com/
+# https://web.archive.org/web/20101022080921/http://sam-free.com/
+
+# HOME > Terms of Service (利用規約): sam-free.com/kiyaku.html
+# https://web.archive.org/web/20101012070040/http://sam-free.com/kiyaku.html
+
+# HOME > Music Materal (音楽素材): sam-free.com/songs.html
+# This includes a lot of metadata on the songs, including track #, title, genre(?), and
+# album. Songs were either available for download as MP3, MIDI, or both. Albums/groups
+# are identifiable by the letter that prefixes each track number, such as "N-06" for the
+# group "Gentle and Refreshing".
+# https://web.archive.org/web/20101011113851/http://sam-free.com/songs.html
+
+# HOME > Q&A: sam-free.com/qanda.html
+# https://web.archive.org/web/20101012071336/http://sam-free.com/qanda.html
+
+### ORIGINAL #################################################
+#                    和やか・爽やか系
+# ============================================================
+# | 曲番号   | 曲名      | イメージ・解説         | MP3 | MIDI |
+# +---------+-----------+-----------------------+-----+------+
+# | N-06    | 散歩      |  軽い足取り            | MP3 | MIDI |
+### GOOGLE TRANSLATION #######################################
+#                  Gentle and refreshing
+# ============================================================
+# | Song #  | Song name | Image and explanation | MP3 | MIDI |
+# +---------+-----------+-----------------------+-----+------+
+# | N-06    | walk      | Light gait            | MP3 | MIDI |
+### LOOSE TRANSLATION ########################################
+#                   Gentle & Refreshing
+# ============================================================
+# | Track # | Title     | Genre(?)              | MP3 | MIDI |
+# +---------+-----------+-----------------------+-----+------+
+# | N-06    | Walk      | Light Gait            | MP3 | MIDI |
+##############################################################
+
+# Source: http://web.archive.org/web/20070212005841/http://sam-free.com/mp3/n06.mp3
+

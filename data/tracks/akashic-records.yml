@@ -1,0 +1,82 @@
+## Akashic Records Artist: Jamendo ##
+
+artists:
+  akashic-records: &artist@akashic-records
+    name: Akashic Records
+    sources:
+      jamendo:  &source@jamendo+artist@akashic-records
+        src:  jamendo
+        name: Akashic Records
+        id:       375935/akashic-records
+        url:      https://www.jamendo.com/artist/375935/akashic-records
+
+## Akashic Records Albums: Camino ##
+
+albums:
+  akashic-records-the-final-battle: &album@akashic-records-the-final-battle
+    artist: *artist@akashic-records
+    name: The Final Battle (epic trailer)
+    year: 2014
+    sources:
+      jamendo:  &source@jamendo+album@akashic-records-the-final-battle
+        artist: *source@jamendo+artist@akashic-records
+        name: The Final Battle (epic trailer)
+        year: 2014
+        id:       139019/the-final-battle-epic-trailer
+        url:      https://www.jamendo.com/album/139019/the-final-battle-epic-trailer
+        dl:       https://storage.jamendo.com/download/album/139019/mp32/the-final-battle-epic-trailer
+
+  akashic-records-epic-action-hero: &album@akashic-records-epic-action-hero
+    artist: *artist@akashic-records
+    name: Epic Action Hero
+    year: 2014
+    sources:
+      jamendo:  &source@jamendo+album@akashic-records-epic-action-hero
+        artist: *source@jamendo+artist@akashic-records
+        name: Epic Action Hero
+        year: 2014
+        id:       138492/epic-action-hero
+        url:      https://www.jamendo.com/album/138492/epic-action-hero
+        dl:       https://storage.jamendo.com/download/album/138492/mp32/epic-action-hero
+
+## Akashic Records Tracks ##
+
+tracks:
+  ## Akashic Records - The Final Battle (epic trailer) ##
+  the-final-battle: &track@the-final-battle
+    artist: *artist@akashic-records
+    album:  *album@akashic-records-the-final-battle
+    name:   The Final Battle (epic trailer)
+    year:   2014
+    files:
+      LD:  [The_Final_Battle.ogg, The_Final_Battle_Cut.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@the-final-battle
+        artist: *source@jamendo+artist@akashic-records
+        album:  *source@jamendo+album@akashic-records-the-final-battle
+        name:   The Final Battle (epic trailer)
+        number: 1
+        year:   2014
+        id:       1158371/the-final-battle-epic-trailer
+        url:      https://www.jamendo.com/track/1158371/the-final-battle-epic-trailer
+        dl:       https://storage.jamendo.com/download/track/1158371/mp32/the-final-battle-epic-trailer
+
+  ## Akashic Records - Epic Action Hero ##
+  epic-action-hero: &track@epic-action-hero
+    artist: *artist@akashic-records
+    album:  *album@akashic-records-epic-action-hero
+    name:   Epic Action Hero
+    year:   2014
+    files:
+      LD:  [Epic_Action_Hero.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@epic-action-hero
+        artist: *source@jamendo+artist@akashic-records
+        album:  *source@jamendo+album@akashic-records-epic-action-hero
+        name:   Epic Action Hero
+        number: 1
+        year:   2014
+        id:       1154518/epic-action-hero
+        url:      https://www.jamendo.com/track/1154518/epic-action-hero
+        dl:       https://storage.jamendo.com/download/track/1154518/mp32/epic-action-hero
+

@@ -1,0 +1,54 @@
+## Roger Subirana: Jamendo (Bandcamp) ##
+
+artists:
+  roger-subirana: &artist@roger-subirana
+    name: Roger Subirana
+    sources:
+      jamendo:  &source@jamendo+artist@roger-subirana
+        src:  jamendo
+        name: Roger Subirana Mata
+        id:       339574/roger-subirana-mata
+        url:      https://www.jamendo.com/artist/339574/roger-subirana-mata
+      bandcamp: &source@bandcamp+artist@roger-subirana
+        src:  bandcamp
+        name: Roger Subirana
+        id:       rogersubirana
+        url:      https://rogersubirana.bandcamp.com/
+
+## Roger Subirana: Fallen Angel ##
+
+albums:
+  roger-subirana-fallen-angel: &album@roger-subirana-fallen-angel
+    artist: *artist@roger-subirana
+    name:   Fallen Angel
+    year:   2014
+    sources:
+      jamendo:  &source@jamendo+album@roger-subirana-fallen-angel
+        artist: *source@jamendo+artist@roger-subirana
+        name: Fallen Angel
+        year: 2014
+        id:       138420/fallen-angel
+        url:      https://www.jamendo.com/album/138420/fallen-angel
+        dl:       https://storage.jamendo.com/download/album/138420/mp32/fallen-angel
+
+## Roger Subirana Tracks ##
+
+tracks:
+  ## Roger Subirana - Fallen Angel ##
+  fallen-angel: &track@fallen-angel
+    artist: *artist@roger-subirana
+    album:  *album@roger-subirana-fallen-angel
+    name:   Fallen Angel
+    year:   2014
+    files:
+      LD:  [Fallen_Angel.ogg, Fallen_Angel_drone.ogg, Fallen_Angel_Pt1.ogg, Fallen_Angel_Pt2.ogg, Fallen_Angel_Pt3.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@fallen-angel
+        artist: *source@jamendo+artist@roger-subirana
+        album:  *source@jamendo+album@roger-subirana-fallen-angel
+        name:   Fallen Angel
+        year:   2014
+        number: 1
+        id:       1153942/fallen-angel
+        url:      https://www.jamendo.com/track/1153942/fallen-angel
+        dl:       https://storage.jamendo.com/download/track/1153942/mp32/fallen-angel

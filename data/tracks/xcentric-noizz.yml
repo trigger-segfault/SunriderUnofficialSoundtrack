@@ -1,0 +1,68 @@
+## Xcentric Noizz Artist: Jamendo ##
+
+artists:
+  xcentric-noizz: &artist@xcentric-noizz
+    name: Xcentric Noizz
+    sources:
+      jamendo:  &source@jamendo+artist@xcentric-noizz
+        src:  jamendo
+        name: Xcentric Noizz
+        id:       369058/xcentric-noizz
+        url:      https://www.jamendo.com/artist/369058/xcentric-noizz
+
+## Xcentric Noizz Albums: The 3RD Grape ##
+
+albums:
+  xcentric-noizz-the-3rd-grape: &album@xcentric-noizz-the-3rd-grape
+    artist: *artist@xcentric-noizz
+    name:   The 3RD Grape
+    year:   2011
+    sources:
+      jamendo:  &source@jamendo+album@xcentric-noizz-the-3rd-grape
+        artist: *source@jamendo+artist@xcentric-noizz
+        name: The 3RD Grape
+        year: 2011
+        id:       92147/the-3rd-grape
+        url:      https://www.jamendo.com/album/92147/the-3rd-grape
+        dl:       https://storage.jamendo.com/download/album/92147/mp32/the-3rd-grape
+
+## Xcentric Noizz Tracks ##
+
+tracks:
+  ## Xcentric Noizz - The 3RD Grape ##
+  gore-and-sand: &track@gore-and-sand
+    artist: *artist@xcentric-noizz
+    album:  *album@xcentric-noizz-the-3rd-grape
+    name:   Gore and Sand
+    year:   2011
+    files:
+      LD:  [Gore_and_Sand.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@gore-and-sand
+        artist: *source@jamendo+artist@xcentric-noizz
+        album:  *source@jamendo+album@xcentric-noizz-the-3rd-grape
+        name:   Gore and Sand
+        year:   2011
+        number: 12
+        id:       785738/gore-and-sand
+        url:      https://www.jamendo.com/track/785738/gore-and-sand
+        dl:       https://storage.jamendo.com/download/track/785738/mp32/gore-and-sand
+
+  marduks-wraith: &track@marduks-wraith
+    artist: *artist@xcentric-noizz
+    album:  *album@xcentric-noizz-the-3rd-grape
+    name:  "Marduk's Wraith"
+    year:   2011
+    files:
+      LD:  [MarduksWrath.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@marduks-wraith
+        artist: *source@jamendo+artist@xcentric-noizz
+        album:  *source@jamendo+album@xcentric-noizz-the-3rd-grape
+        name:  "Marduk's Wraith"
+        year:   2011
+        number: 16
+        id:       785739/marduk-s-wraith
+        url:      https://www.jamendo.com/track/785739/marduk-s-wraith
+        dl:       https://storage.jamendo.com/download/track/785739/mp32/marduk-s-wraith
+

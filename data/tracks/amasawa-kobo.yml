@@ -1,0 +1,142 @@
+#### WORK IN PROGRESS ####
+
+## Amasawa-Kobo Artist: Storenvy,Steam,Amazon,Spotify ##
+
+artists:
+  amasawa-kobo: &artist@amasawa-kobo
+    name: Amasawa-Kobo
+    feat: [Iced Blade, myu]
+    sources:
+      storenvy:  &source@storenvy+artist@amasawa-kobo
+        src:  storenvy
+        name: Amasawa-Kobo
+        id:       amasawakobo
+        url:      https://amasawakobo.storenvy.com/
+      steam:     &source@steam+artist@amasawa-kobo
+        src:  steam
+        name: Amasawa-Kobo
+        id:       amasawakobo
+      amazon:     &source@amazon+artist@amasawa-kobo
+        src:  amazon
+        name: Amasawa-Kobo
+        id:       amasawakobo
+      spotify:     &source@spotify+artist@amasawa-kobo
+        src:  spotify
+        name: Amasawa-Kobo
+        id:       amasawakobo
+  # iced-blade: &artist@iced-blade
+  #   name: Iced Blade
+  #   sources:
+  #     storenvy:  &source@storenvy+artist@iced-blade
+  #       src:  storenvy
+  #       name: Amasawa-Kobo
+  #       id:       amasawakobo
+  #       url:      https://amasawakobo.storenvy.com/
+  # myu: &artist@myu
+  #   name: Iced Blade
+  #   sources:
+  #     storenvy:  &source@storenvy+artist@myu
+  #       src:  storenvy
+  #       name: Amasawa-Kobo
+  #       id:       amasawakobo
+  #       url:      https://amasawakobo.storenvy.com/
+  #     amazon:  &source@amazon+artist@myu
+  #       src:  amazon
+  #       name: Myu
+  #       url:      https://www.amazon.com/Myu/e/B002E3HWX4/
+
+## Amasawa-Kobo Albums ##
+
+albums:
+  ## Steam ##
+  sunrider-academy-theme-song: &album@sunrider-academy-theme-song
+    artist: *artist@amasawa-kobo
+    feat: [myu]
+    name: "Sunrider Academy - Theme Song"
+    year: 2017
+    sources:
+      steam:  &source@steam+album@sunrider-academy-theme-song
+        artist: *source@steam+artist@amasawa-kobo
+        feat: [myu]
+        name: "Sunrider Academy - Theme Song"
+        year: 2017
+        id:       598420/Sunrider_Academy__Theme_Song
+        url:      https://store.steampowered.com/app/598420/Sunrider_Academy__Theme_Song/
+
+  sunrider-liberation-day-theme-song: &album@sunrider-liberation-day-theme-song
+    artist: *artist@amasawa-kobo
+    feat: [Iced Blade]
+    name: "Sunrider: Liberation Day - Theme Song"
+    year: 2016
+    sources:
+      steam:  &source@steam+album@sunrider-liberation-day-theme-song
+        artist: *source@steam+artist@amasawa-kobo
+        feat: [Iced Blade]
+        name: "Sunrider: Liberation Day - Theme Song"
+        year: 2016
+        id:       451290/Sunrider_Liberation_Day__Theme_Song
+        url:      https://store.steampowered.com/app/451290/Sunrider_Liberation_Day__Theme_Song/
+
+  ## Storenvy ##
+  sunrider-bundle: &album@sunrider-bundle
+    artist: *artist@amasawa-kobo
+    feat: [Iced Blade, myu]
+    name: Sunrider Bundle
+    year: 2015
+    sources:
+      storenvy:  &source@storenvy+album@sunrider-bundle
+        artist: *source@storenvy+artist@amasawa-kobo
+        feat: [Iced Blade, myu]
+        name: Sunrider Bundle
+        year: 2015
+        id:       25367223-hd-dl-sunrider-bundle
+        url:      https://amasawakobo.storenvy.com/products/25367223-hd-dl-sunrider-bundle
+
+  sora-no-kodou: &album@sora-no-kodou
+    artist: *artist@amasawa-kobo
+    feat: [Iced Blade]
+    name: Sora no Kodou -the beat of the cosmos-
+    year: 2015
+    sources: {}
+
+  sora-no-senritsu: &album@sora-no-senritsu
+    artist: *artist@amasawa-kobo
+    feat: [Iced Blade]
+    name: Sora no Senritsu -the melody of the cosmos-
+    year: 2014
+    sources:
+      storenvy:  &source@storenvy+album@sora-no-senritsu
+        artist: *source@storenvy+artist@amasawa-kobo
+        feat: [Iced Blade]
+        name: Sora no Senritsu
+        year: 2014
+        id:       8309646-cd-dl-iced-blade-sora-no-senritsu-with-hd-download
+        url:      https://amasawakobo.storenvy.com/products/8309646-cd-dl-iced-blade-sora-no-senritsu-with-hd-download
+      storenvy2:  &source@storenvy+album@sora-no-senritsu
+        artist: *source@storenvy+artist@amasawa-kobo
+        feat: [Iced Blade]
+        name: Sora no Senritsu
+        year: 2014
+        id:       8308866-cd-iced-blade-sora-no-senritsu
+        url:      https://amasawakobo.storenvy.com/products/8308866-cd-iced-blade-sora-no-senritsu
+      amazon:  &source@amazon+album@sora-no-senritsu
+        artist: *source@amazon+artist@amasawa-kobo
+        feat: [Iced Blade]
+        name: Sora No Senritsu The Melody Of The Cosmos
+        year: 2014
+        url:      https://www.amazon.com/Sora-No-Senritsu-Melody-Cosmos/dp/B01BZA44KU
+
+  ## Other ##
+  sunrider-bundle-plus: &album@sunrider-bundle-plus
+    artist: *artist@amasawa-kobo
+    feat: [Iced Blade, myu]
+    name: Sunrider Bundle Plus
+    year: 2015
+    sources:
+      spotify:  &source@spotify+album@sunrider-bundle
+        artist: *source@spotify+artist@amasawa-kobo
+        feat: [Iced Blade]
+        name: Sunrider Bundle Plus
+        year: 2015
+        id:       1ZdZRskP5hGuWahmPBjuPB
+        url:      https://open.spotify.com/album/1ZdZRskP5hGuWahmPBjuPB

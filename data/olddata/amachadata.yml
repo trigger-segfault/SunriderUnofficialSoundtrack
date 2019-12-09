@@ -1,0 +1,789 @@
+#### WORK IN PROGRESS ####
+#### OLD DATA ###
+
+- files:
+    SA:  [akaifuusen.ogg]:
+  metadata:
+    title:  ["赤い風船とメリーゴーランド", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: akaifuusen, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_akaifuusen.html", "https://amachamusic.chagasi.com/mp3/akaifuusen.mp3"]
+
+- files:
+    SA:  [am200.ogg]:
+  metadata:
+    title:  ["AM2:00", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2009
+  sources:
+    - {src: amacha_music, track: am200, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_am200.html", "https://amachamusic.chagasi.com/mp3/am200.mp3"]
+
+- files:
+    SA:  [aruharetahinoumi.ogg]:
+  metadata:
+    title:  ["ある晴れた日の海", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: aruharetahinoumi, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_aruharetahinoumi.html", "https://amachamusic.chagasi.com/mp3/aruharetahinoumi.mp3"]
+
+- files:
+    SA:  [asayakenomachi.ogg]:
+  metadata:
+    title:  ["朝焼けの街", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: asayakenomachi, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_asayakenomachi.html", "https://amachamusic.chagasi.com/mp3/asayakenomachi.mp3"]
+
+- files:
+    SA:  [ashitaetudukusora.ogg]:
+  metadata:
+    title:  ["明日へ続く空", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: ashitaetudukusora, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_ashitaetudukusora.html", "https://amachamusic.chagasi.com/mp3/ashitaetudukusora.mp3"]
+
+- files:
+    SA:  [bakumatsubukyoku_ikusa.ogg]:
+  metadata:
+    title:  ["幕末舞曲〜戦〜", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2014
+  sources:
+    - {src: amacha_music, track: bakumatsubukyoku_ikusa, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_bakumatsubukyoku_ikusa.html", "https://amachamusic.chagasi.com/mp3/bakumatsubukyoku_ikusa.mp3"]
+
+- files:
+    SA:  [bird.ogg]:
+  metadata:
+    title:  ["Bird", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: bird, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_bird.html", "https://amachamusic.chagasi.com/mp3/bird.mp3"]
+
+- files:
+    SA:  [bossnekonotoujou.ogg]:
+  metadata:
+    title:  ["ボス猫の登場", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2014
+  sources:
+    - {src: amacha_music, track: bossnekonotoujou, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_bossnekonotoujou.html", "https://amachamusic.chagasi.com/mp3/bossnekonotoujou.mp3"]
+
+- files:
+    SA:  [boukyakunopavane.ogg]:
+  metadata:
+    title:  ["忘却のパヴァーヌ", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2014
+  sources:
+    - {src: amacha_music, track: boukyakunopavane, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_boukyakunopavane.html", "https://amachamusic.chagasi.com/mp3/boukyakunopavane.mp3"]
+
+- files:
+    MoA: [boukyou.ogg]:
+    SA:  [boukyou.ogg]:
+  metadata:
+    title:  ["望郷", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: boukyou, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_boukyou.html", "https://amachamusic.chagasi.com/mp3/boukyou.mp3"]
+
+- files:
+    SA:  [caramelkoubou.ogg]:
+  metadata:
+    title:  ["キャラメル工房", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: caramelkoubou, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_caramelkoubou.html", "https://amachamusic.chagasi.com/mp3/caramelkoubou.mp3"]
+
+- files:
+    SA:  [chiisanaomochabako.ogg]:
+  metadata:
+    title:  ["小さなおもちゃ箱", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: chiisanaomochabako, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_chiisanaomochabako.html", "https://amachamusic.chagasi.com/mp3/chiisanaomochabako.mp3"]
+
+- files:
+    SA:  [chocolatedaisakusen.ogg]:
+  metadata:
+    title:  ["チョコレート大作戦", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: chocolatedaisakusen, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_chocolatedaisakusen.html", "https://amachamusic.chagasi.com/mp3/chocolatedaisakusen.mp3"]
+
+- files:
+    SA:  [comicalpizzicato.ogg]:
+  metadata:
+    title:  ["コミカル・ピチカート", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2014
+  sources:
+    - {src: amacha_music, track: comicalpizzicato, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_comicalpizzicato.html", "https://amachamusic.chagasi.com/mp3/comicalpizzicato.mp3"]
+
+- files:
+    SA:  [creamsoda.ogg]:
+  metadata:
+    title:  ["クリームソーダ", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2009
+  sources:
+    - {src: amacha_music, track: creamsoda, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_creamsoda.html", "https://amachamusic.chagasi.com/mp3/creamsoda.mp3"]
+
+- files:
+    SA:  [daremoinaisabaku.ogg]:
+  metadata:
+    title:  ["誰もいない砂漠", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: daremoinaisabaku, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_daremoinaisabaku.html", "https://amachamusic.chagasi.com/mp3/daremoinaisabaku.mp3"]
+
+- files:
+    SA:  [famipop2.ogg]:
+  metadata:
+    title:  ["ファミポップⅡ", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2011
+  sources:
+    - {src: amacha_music, track: famipop2, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_famipop2.html", "https://amachamusic.chagasi.com/mp3/famipop2.mp3"]
+
+- files:
+    SA:  [famipop3.ogg]:
+  metadata:
+    title:  ["ファミポップⅢ", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2014
+  sources:
+    - {src: amacha_music, track: famipop3, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_famipop3.html", "https://amachamusic.chagasi.com/mp3/famipop3.mp3"]
+
+- files:
+    SA:  [fukaikawa.ogg]:
+  metadata:
+    title:  ["深い川", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2011
+  sources:
+    - {src: amacha_music, track: fukaikawa, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_fukaikawa.html", "https://amachamusic.chagasi.com/mp3/fukaikawa.mp3"]
+
+- files:
+    SA:  [funenotabi.ogg]:
+  metadata:
+    title:  ["船の旅", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2010
+  sources:
+    - {src: amacha_music, track: funenotabi, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_funenotabi.html", "https://amachamusic.chagasi.com/mp3/funenotabi.mp3"]
+
+- files:
+    SA:  [furusatonosora.ogg]:
+  metadata:
+    title:  ["ふるさとの空", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2011
+  sources:
+    - {src: amacha_music, track: furusatonosora, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_furusatonosora.html", "https://amachamusic.chagasi.com/mp3/furusatonosora.mp3"]
+
+- files:
+    SA:  [gairotounoakari.ogg]:
+  metadata:
+    title:  ["街路灯の明かり", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2014
+  sources:
+    - {src: amacha_music, track: gairotounoakari, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_gairotounoakari.html", "https://amachamusic.chagasi.com/mp3/gairotounoakari.mp3"]
+
+- files:
+    SA:  [gakkounokaidan.ogg]:
+  metadata:
+    title:  ["学校の怪談", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2011
+  sources:
+    - {src: amacha_music, track: gakkounokaidan, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_gakkounokaidan.html", "https://amachamusic.chagasi.com/mp3/gakkounokaidan.mp3"]
+
+- files:
+    SA:  [gamelankikou.ogg]:
+  metadata:
+    title:  ["ガムラン紀行", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2014
+  sources:
+    - {src: amacha_music, track: gamelankikou, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_gamelankikou.html", "https://amachamusic.chagasi.com/mp3/gamelankikou.mp3"]
+
+- files:
+    SA:  [gogonoosanpo.ogg]:
+  metadata:
+    title:  ["午後のお散歩", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: gogonoosanpo, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_gogonoosanpo.html", "https://amachamusic.chagasi.com/mp3/gogonoosanpo.mp3"]
+
+- files:
+    SA:  [hajimetenootsukai.ogg]:
+  metadata:
+    title:  ["はじめてのおつかい", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: hajimetenootsukai, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_hajimetenootsukai.html", "https://amachamusic.chagasi.com/mp3/hajimetenootsukai.mp3"]
+
+- files:
+    SA:  [hanamatsuri.ogg]:
+  metadata:
+    title:  ["花祭り", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2011
+  sources:
+    - {src: amacha_music, track: hanamatsuri, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_hanamatsuri.html", "https://amachamusic.chagasi.com/mp3/hanamatsuri.mp3"]
+
+- files:
+    SA:  [harukaze.ogg]:
+  metadata:
+    title:  ["春風", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: harukaze, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_harukaze.html", "https://amachamusic.chagasi.com/mp3/harukaze.mp3"]
+
+- files:
+    MoA: [harunokagayaki.ogg]:
+  metadata:
+    title:  ["春の輝き", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: harunokagayaki, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_harunokagayaki.html", "https://amachamusic.chagasi.com/mp3/harunokagayaki.mp3"]
+
+- files:
+    SA:  [harunopayapaya.ogg]:
+  metadata:
+    title:  ["春のパヤパヤ", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2010
+  sources:
+    - {src: amacha_music, track: harunopayapaya, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_harunopayapaya.html", "https://amachamusic.chagasi.com/mp3/harunopayapaya.mp3"]
+
+- files:
+    SA:  [harunoyokan.ogg]:
+  metadata:
+    title:  ["春の予感", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2014
+  sources:
+    - {src: amacha_music, track: harunoyokan, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_harunoyokan.html", "https://amachamusic.chagasi.com/mp3/harunoyokan.mp3"]
+
+- files:
+    SA:  [haruoomoukokoro.ogg]:
+  metadata:
+    title:  ["春を想う心", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: haruoomoukokoro, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_haruoomoukokoro.html", "https://amachamusic.chagasi.com/mp3/haruoomoukokoro.mp3"]
+
+- files:
+    SA:  [hatsukoi.ogg]:
+  metadata:
+    title:  ["初恋", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2011
+  sources:
+    - {src: amacha_music, track: hatsukoi, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_hatsukoi.html", "https://amachamusic.chagasi.com/mp3/hatsukoi.mp3"]
+
+- files:
+    SA:  [hidamari.ogg]:
+  metadata:
+    title:  ["陽だまり", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2011
+  sources:
+    - {src: amacha_music, track: hidamari, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_hidamari.html", "https://amachamusic.chagasi.com/mp3/hidamari.mp3"]
+
+- files:
+    MoA: [hinokageri.ogg]:
+    SA:  [hinokageri.ogg]:
+  metadata:
+    title:  ["日の陰り", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: hinokageri, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_hinokageri.html", "https://amachamusic.chagasi.com/mp3/hinokageri.mp3"]
+
+- files:
+    MoA: [hinokageri_orchestra.ogg]:
+    SA:  [hinokageri_orchestra.ogg]:
+  metadata:
+    title:  ["日の陰り（オーケストラ編）", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: hinokageri_orchestra, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_hinokageri_orchestra.html", "https://amachamusic.chagasi.com/mp3/hinokageri_orchestra.mp3"]
+
+- files:
+    SA:  [hommage_chorus.ogg]:
+  metadata:
+    title:  ["「オマージュ」〜ヴェルディ風の合唱", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2014
+  sources:
+    - {src: amacha_music, track: hommage_chorus, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_hommage_chorus.html", "https://amachamusic.chagasi.com/mp3/hommage_chorus.mp3"]
+
+- files:
+    SA:  [hoshinomatataki.ogg]:
+  metadata:
+    title:  ["星の瞬き", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2011
+  sources:
+    - {src: amacha_music, track: hoshinomatataki, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_hoshinomatataki.html", "https://amachamusic.chagasi.com/mp3/hoshinomatataki.mp3"]
+
+- files:
+    SA:  [illumination_am300.ogg]:
+  metadata:
+    title:  ["イルミネーションAM3:00", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: illumination_am300, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_illumination_am300.html", "https://amachamusic.chagasi.com/mp3/illumination_am300.mp3"]
+
+- files:
+    SA:  [iroasetayugure.ogg]:
+  metadata:
+    title:  ["色あせた夕暮れ", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: iroasetayugure, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_iroasetayugure.html", "https://amachamusic.chagasi.com/mp3/iroasetayugure.mp3"]
+
+- files:
+    SA:  [juninoonretsu.ogg]:
+  metadata:
+    title:  ["十二の音列", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: juninoonretsu, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_juninoonretsu.html", "https://amachamusic.chagasi.com/mp3/juninoonretsu.mp3"]
+
+- files:
+    SA:  [kagerou.ogg]:
+  metadata:
+    title:  ["陽炎", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: kagerou, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_kagerou.html", "https://amachamusic.chagasi.com/mp3/kagerou.mp3"]
+
+- files:
+    SA:  [kaidan.ogg]:
+  metadata:
+    title:  ["怪談", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2009
+  sources:
+    - {src: amacha_music, track: kaidan, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_kaidan.html", "https://amachamusic.chagasi.com/mp3/kaidan.mp3"]
+
+- files:
+    SA:  [kanashimi.ogg]:
+  metadata:
+    title:  ["悲しみ", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2008
+  sources:
+    - {src: amacha_music, track: kanashimi, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_kanashimi.html", "https://amachamusic.chagasi.com/mp3/kanashimi.mp3"]
+
+- files:
+    SA:  [kibou.ogg]:
+  metadata:
+    title:  ["希望", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2011
+  sources:
+    - {src: amacha_music, track: kibou, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_kibou.html", "https://amachamusic.chagasi.com/mp3/kibou.mp3"]
+
+- files:
+    SA:  [kiminoitanatsu.ogg]:
+  metadata:
+    title:  ["君のいた夏", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: kiminoitanatsu, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_kiminoitanatsu.html", "https://amachamusic.chagasi.com/mp3/kiminoitanatsu.mp3"]
+
+- files:
+    SA:  [konekonoosanpo.ogg]:
+  metadata:
+    title:  ["子猫のお散歩", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: konekonoosanpo, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_konekonoosanpo.html", "https://amachamusic.chagasi.com/mp3/konekonoosanpo.mp3"]
+
+- files:
+    SA:  [mayonakanoongakushitsu.ogg]:
+  metadata:
+    title:  ["真夜中の音楽室", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2009
+  sources:
+    - {src: amacha_music, track: mayonakanoongakushitsu, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_mayonakanoongakushitsu.html", "https://amachamusic.chagasi.com/mp3/mayonakanoongakushitsu.mp3"]
+
+- files:
+    SA:  [monologue.ogg]:
+  metadata:
+    title:  ["モノローグ", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2009
+  sources:
+    - {src: amacha_music, track: monologue, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_monologue.html", "https://amachamusic.chagasi.com/mp3/monologue.mp3"]
+
+- files:
+    SA:  [odekakebiyori.ogg]:
+  metadata:
+    title:  ["お出かけ日和", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2010
+  sources:
+    - {src: amacha_music, track: odekakebiyori, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_odekakebiyori.html", "https://amachamusic.chagasi.com/mp3/odekakebiyori.mp3"]
+
+- files:
+    SA:  [ohisamatoosanpo.ogg]:
+  metadata:
+    title:  ["お日様とお散歩", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: ohisamatoosanpo, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_ohisamatoosanpo.html", "https://amachamusic.chagasi.com/mp3/ohisamatoosanpo.mp3"]
+
+- files:
+    SA:  [okaetudukumichi.ogg]:
+  metadata:
+    title:  ["丘へ続く道", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2010
+  sources:
+    - {src: amacha_music, track: okaetudukumichi, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_okaetudukumichi.html", "https://amachamusic.chagasi.com/mp3/okaetudukumichi.mp3"]
+
+- files:
+    SA:  [okaetudukumichi_odayaka.ogg]:
+  metadata:
+    title:  ["丘へ続く道（穏やかバージョン）", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2010
+  sources:
+    - {src: amacha_music, track: okaetudukumichi_odayaka, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_okaetudukumichi_odayaka.html", "https://amachamusic.chagasi.com/mp3/okaetudukumichi_odayaka.mp3"]
+
+- files:
+    SA:  [orchestrajingle.ogg]:
+  metadata:
+    title:  ["オーケストラジングル", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2010
+  sources:
+    - {src: amacha_music, track: orchestrajingle, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_orchestrajingle.html", "https://amachamusic.chagasi.com/mp3/orchestrajingle.mp3"]
+
+- files:
+    SA:  [osoujibiyori.ogg]:
+  metadata:
+    title:  ["おそうじ日和", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2008
+  sources:
+    - {src: amacha_music, track: osoujibiyori, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_osoujibiyori.html", "https://amachamusic.chagasi.com/mp3/osoujibiyori.mp3"]
+
+- files:
+    SA:  [rokugatsunomori.ogg]:
+  metadata:
+    title:  ["6月の森", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2010
+  sources:
+    - {src: amacha_music, track: rokugatsunomori, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_rokugatsunomori.html", "https://amachamusic.chagasi.com/mp3/rokugatsunomori.mp3"]
+
+- files:
+    SA:  [sanbikinokobuta.ogg]:
+  metadata:
+    title:  ["三匹のこぶた", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2007
+  sources:
+    - {src: amacha_music, track: sanbikinokobuta, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_sanbikinokobuta.html", "https://amachamusic.chagasi.com/mp3/sanbikinokobuta.mp3"]
+
+- files:
+    SA:  [seishunnohibi.ogg]:
+  metadata:
+    title:  ["青春の日々", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: seishunnohibi, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_seishunnohibi.html", "https://amachamusic.chagasi.com/mp3/seishunnohibi.mp3"]
+
+- files:
+    SA:  [serenade.ogg]:
+  metadata:
+    title:  ["セレナード", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2011
+  sources:
+    - {src: amacha_music, track: serenade, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_serenade.html", "https://amachamusic.chagasi.com/mp3/serenade.mp3"]
+
+- files:
+    SA:  [shinkou.ogg]:
+  metadata:
+    title:  ["侵攻", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: shinkou, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_shinkou.html", "https://amachamusic.chagasi.com/mp3/shinkou.mp3"]
+
+- files:
+    SA:  [shizumiyukutsuki.ogg]:
+  metadata:
+    title:  ["沈みゆく月", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: shizumiyukutsuki, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_shizumiyukutsuki.html", "https://amachamusic.chagasi.com/mp3/shizumiyukutsuki.mp3"]
+
+- files:
+    SA:  [shoujonokoro.ogg]:
+  metadata:
+    title:  ["少女の頃", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: shoujonokoro, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_shoujonokoro.html", "https://amachamusic.chagasi.com/mp3/shoujonokoro.mp3"]
+
+- files:
+    SA:  [soushunfu.ogg]:
+  metadata:
+    title:  ["早春賦", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2009
+  sources:
+    - {src: amacha_music, track: soushunfu, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_soushunfu.html", "https://amachamusic.chagasi.com/mp3/soushunfu.mp3"]
+
+- files:
+    SA:  [suisougakubunonatsu.ogg]:
+  metadata:
+    title:  ["吹奏楽部の夏", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: suisougakubunonatsu, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_suisougakubunonatsu.html", "https://amachamusic.chagasi.com/mp3/suisougakubunonatsu.mp3"]
+
+- files:
+    SA:  [tozasaretamado.ogg]:
+  metadata:
+    title:  ["閉ざされた窓", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2010
+  sources:
+    - {src: amacha_music, track: tozasaretamado, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_tozasaretamado.html", "https://amachamusic.chagasi.com/mp3/tozasaretamado.mp3"]
+
+- files:
+    SA:  [uchuusensou.ogg]:
+  metadata:
+    title:  ["宇宙戦争", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2012
+  sources:
+    - {src: amacha_music, track: uchuusensou, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_uchuusensou.html", "https://amachamusic.chagasi.com/mp3/uchuusensou.mp3"]
+
+## ARCHIVED: unmei.ogg
+
+- files:
+    SA:  [unmei.ogg]:
+  metadata:
+    title:  ["運命", "「Unmei」", "\"Fate\""]
+    artist:  Amacha Music Studio
+    year:    2009
+  sources:
+    - {src: amacha_music, track: unmei, kind: track, archived: true,
+        url: [https://web.archive.org/web/20130724035827/, https://amachamusic.chagasi.com/music_unmei.html],
+        dl:  [https://web.archive.org/web/20120225060849if_/, http://amachamusic.chagasi.com/mp3/unmei.mp3]}}
+
+- files:
+    SA:  [vampirenomezame.ogg]:
+  metadata:
+    title:  ["ヴァンパイアの目覚め", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: vampirenomezame, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_vampirenomezame.html", "https://amachamusic.chagasi.com/mp3/vampirenomezame.mp3"]
+
+- files:
+    SA:  [yayoinosorani.ogg]:
+  metadata:
+    title:  ["弥生の空に", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: yayoinosorani, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_yayoinosorani.html", "https://amachamusic.chagasi.com/mp3/yayoinosorani.mp3"]
+
+- files:
+    SA:  [yuuhinoodori.ogg]:
+  metadata:
+    title:  ["夕日の踊り", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: yuuhinoodori, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_yuuhinoodori.html", "https://amachamusic.chagasi.com/mp3/yuuhinoodori.mp3"]
+
+- files:
+    SA:  [yuuzoranihabatakukokoro.ogg]:
+  metadata:
+    title:  ["夕日に羽ばたく心", "「」", "\"TRANSLATEME\""]
+    artist:  Amacha Music Studio
+    year:    2013
+  sources:
+    - {src: amacha_music, track: yuuzoranihabatakukokoro, kind: track}
+    #amacha_music:
+    #- ["https://amachamusic.chagasi.com/music_yuuzoranihabatakukokoro.html", "https://amachamusic.chagasi.com/mp3/yuuzoranihabatakukokoro.mp3"]
+

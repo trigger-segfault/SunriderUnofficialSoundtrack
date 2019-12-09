@@ -1,0 +1,79 @@
+## Benjamin Groenke Artist: Jamendo,Bandcamp ##
+
+artists:
+  benjamin-groenke: &artist@benjamin-groenke
+    name: Benjamin Groenke
+    sources:
+      jamendo:  &source@jamendo+artist@benjamin-groenke
+        src:  jamendo
+        name: Benjamin Groenke
+        id:       460235/benjamin-groenke
+        url:      https://www.jamendo.com/artist/460235/benjamin-groenke
+      bandcamp: &source@bandcamp+artist@benjamin-groenke
+        src:  bandcamp
+        name: Benjamin Groenke
+        id:       benjamingroenke
+        url:      https://benjamingroenke.bandcamp.com/
+      soundcloud: &source@soundcloud+artist@benjamin-groenke
+        src:  soundcloud
+        name: Benjamin Groenke
+        id:   bengee-1
+        url:      https://soundcloud.com/bengee-1
+
+## Benjamin Groenke Albums: Singles ##
+
+# albums:
+#   benjamin-groenke-singles: &album@benjamin-groenke-singles
+#     artist: *artist@benjamin-groenke
+#     name:   Benjamin Groenke - Singles
+#     sources:
+#       jamendo:  &source@jamendo+album@benjamin-groenke-singles
+#         artist: *source@jamendo+artist@benjamin-groenke
+#         name: Benjamin Groenke - Singles
+#         id:       singles
+#         url:      https://www.jamendo.com/artist/460235/benjamin-groenke/singles
+#       bandcamp: &source@bandcamp+album@benjamin-groenke-singles
+#         artist: *source@bandcamp+artist@benjamin-groenke
+#         name: Benjamin Groenke - Singles
+#         id:       singles
+#       soundcloud: &source@soundcloud+album@benjamin-groenke-singles
+#         artist: *source@soundcloud+artist@benjamin-groenke
+#         name: Benjamin Groenke - Singles
+#         id:       tracks
+#         url:      https://soundcloud.com/bengee-1/tracks
+
+## Benjamin Groenke Tracks ##
+
+tracks:
+  ## Benjamin Groenke - Singles ##
+  destinys-path: &track@destinys-path
+    artist: *artist@benjamin-groenke
+    #album:  *album@benjamin-groenke-singles
+    name:  "Destiny's Path"
+    year:   2015
+    files:
+      LD:  [Destinys_Path.ogg, Destinys_Path_Cut.ogg, Destinys_Path_Short.ogg]
+    sources:
+      jamendo:  &source@jamendo+track@destinys-path
+        artist: *source@jamendo+artist@benjamin-groenke
+        #album:  *source@jamendo+album@benjamin-groenke-singles
+        name:   Destinys Path
+        year:   2015
+        id:       1190744/destinys-path
+        url:      https://www.jamendo.com/track/1190744/destinys-path
+        dl:       https://storage.jamendo.com/download/track/1190744/mp32/destinys-path
+      bandcamp: &source@bandcamp+track@destinys-path
+        artist: *source@bandcamp+artist@benjamin-groenke
+        #album:  *source@bandcamp+album@benjamin-groenke-singles
+        name:   Destinys Path
+        year:   2015
+        id:       destinys-path
+        url:      https://benjamingroenke.bandcamp.com/track/destinys-path
+      soundcloud: &source@soundcloud+track@destinys-path
+        artist: *source@soundcloud+artist@benjamin-groenke
+        #album:  *source@soundcloud+album@benjamin-groenke-singles
+        name:  "Destiny's Path"
+        year:   2015
+        id:       destinys-path
+        url:      https://soundcloud.com/bengee-1/destinys-path
+

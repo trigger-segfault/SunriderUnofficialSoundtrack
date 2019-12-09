@@ -1,0 +1,278 @@
+#### WORK IN PROGRESS ####
+sources:
+
+  default:
+    name: 'Source'
+    desc: null
+    url:  null
+    urls: {}
+    archived: false
+    unused:   false
+    type: download
+    lang: en
+    free: true
+    related: []
+    icons:
+      img: null
+      ico: null
+      svg: null
+    format:
+      vars: []
+      kind: {}
+      url:  null
+      dl:   null
+
+  amacha_music:
+    name: Amacha Music Studio
+    desc: null
+    url:  https://amachamusic.chagasi.com/
+    urls: {home: https://amachamusic.chagasi.com/}
+    type: download
+    lang: jp
+    free: true
+    related: [nostalgia_music]
+    icons: {img: ".png", ico: null, svg: null}
+    format:
+      vars: [trackname]
+      kind:
+        track:
+          url:  "https://amachamusic.chagasi.com/music_{trackname}.html"
+          dl:   "https://amachamusic.chagasi.com/mp3/{trackname}.mp3"
+
+  amazon:
+    name: Amazon
+    desc: null
+    url:  https://www.amazon.com/
+    urls: {home: https://www.amazon.com/}
+    type: store
+    free: false
+    icons: {img: ".png", ico: ".ico", svg: ".svg"}
+
+  apple_music:
+    name: Apple Music
+    desc: null
+    url:  https://www.apple.com/music/
+    urls: {home: https://www.apple.com/music/}
+    type: stream
+    free: false
+    icons: {img: ".png", ico: null, svg: ".svg"}
+
+  bandcamp:
+    name: Bandcamp
+    desc: null
+    url:  https://bandcamp.com/
+    urls: {home: https://bandcamp.com/}
+    type: store
+    free: false
+    icons: {img: ".png", ico: null, svg: ".svg"}
+    format:
+      vars: [artistname, trackname, albumname]
+      kind:
+        track:
+          url:  "https://{artistname}.bandcamp.com/track/{trackname}"
+        album:
+          url:  "https://{artistname}.bandcamp.com/album/{albumname}"
+        artist:
+          url:  "https://{artistname}.bandcamp.com/"
+
+  incompetech:
+    name: Incompetech
+    desc: null
+    url:  https://incompetech.com/
+    urls: {home: https://incompetech.com/}
+    type: download
+    free: true
+    icons: {img: ".png", ico: null, svg: ".svg"}
+    format:
+      vars: [isrc, trackname]
+      kind:
+        track:
+          url:  "https://incompetech.com/music/royalty-free/index.html?isrc={isrc}"
+          dl:   "https://incompetech.com/music/royalty-free/mp3-royaltyfree/{trackname}.mp3"
+
+  internet_archive:
+    name: Internet Archive
+    desc: null
+    url:  https://archive.org/
+    urls: {home: https://archive.org/}
+    type: download
+    free: true
+    icons: {img: ".png", ico: null, svg: ".svg"}
+    web:
+      url:  https://archive.org/web/
+      urls: {home: https://archive.org/web/}
+      format:
+        vars: ["urlid", "url", "dlid", "dl"]
+        kind:
+          track:
+            url:  "https://web.archive.org/web/{urlid}/{url}"
+            dl:   "https://web.archive.org/web/{dlid}/{dl}"
+          album:
+            url:  "https://web.archive.org/web/{urlid}/{url}"
+            dl:   "https://web.archive.org/web/{dlid}/{dl}"
+          artist:
+            url:  "https://web.archive.org/web/{urlid}/{url}"
+            dl:   "https://web.archive.org/web/{dlid}/{dl}"
+    audio:
+      url:  https://archive.org/details/audio
+      urls: {home: https://archive.org/details/audio}
+      format:
+        vars: [artistname, albumname, trackname]
+        kind:
+          track:
+            url:  "https://archive.org/details/{albumname}/{trackname}.mp3"
+            dl:   "https://archive.org/download/{albumname}/{trackname}.mp3"
+          album:
+            url:  "https://archive.org/details/{albumname}"
+            dl:   "https://archive.org/compress/{albumname}"
+          artist:
+            url:  "https://archive.org/details/{artistname}"
+
+  jamendo_music:
+    name: Jamendo Music
+    desc: null
+    url:  https://www.jamendo.com/start
+    urls: {home: https://www.jamendo.com/start}
+    type: download
+    free: true
+    icons: {img: ".png", ico: null, svg: ".svg"}
+    format:
+      vars: [trackid, trackname, albumid, albumname, artistid, artistname]
+      kind:
+        track:
+          url:  "https://www.jamendo.com/track/{trackid}/{trackname}"
+          dl:   "https://storage.jamendo.com/download/track/{trackid}/mp32/{trackname}"
+        album:
+          url:  "https://www.jamendo.com/album/{albumid}/{albumname}"
+          dl:   "https://storage.jamendo.com/download/album/{albumid}/mp32/{albumname}"
+        artist:
+          url:  "https://www.jamendo.com/artist/{artistid}/{artistname}"
+
+  samfree_music:
+    name: SAM Free Music
+    desc: null
+    archivedate: 20101022080921
+    url:  [https://web.archive.org/web/20101022080921/, http://sam-free.com/]
+    urls: {home: [https://web.archive.org/web/20101022080921/, http://sam-free.com/]}
+    # urls:
+    #   home:  [https://web.archive.org/web/20101022080921/, http://sam-free.com/]
+    #   songs: [https://web.archive.org/web/20101011113851/, http://sam-free.com/songs.html]
+    #   qanda: [https://web.archive.org/web/20101012071336/, http://sam-free.com/qanda.html]
+    #   tos:   [https://web.archive.org/web/20101012070040/, http://sam-free.com/kiyaku.html]
+    archived: {arckind: web, arcid: 20101022080921}
+    type: download
+    lang: jp
+    free: true
+    icons: {img: ".png", ico: null, svg: null}
+    format:
+      vars: [trackname]
+      kind:
+        track:
+          url:  "http://sam-free.com/songs.html"
+          dl:   "http://sam-free.com/mp3/{trackname}.mp3"
+        album:
+          url:  "http://sam-free.com/songs.html"
+        artist:
+          url:  "http://sam-free.com/"
+    #   url: [https://web.archive.org/web/20101011113851/, http://sam-free.com/songs.html],
+    #   dl:  [http://web.archive.org/web/20070212005841/, http://sam-free.com/mp3/n06.mp3]}
+
+  soundcloud:
+    name: Soundcloud
+    desc: null
+    url:  https://soundcloud.com/
+    urls: {home: https://soundcloud.com/}
+    type: stream
+    free: true
+    icons: {img: ".png", ico: null, svg: ".svg"}
+    format:
+      vars: [artistname, trackname, albumname]
+      kind:
+        artist:
+          url:  "https://soundcloud.com/{artistname}"
+        track:
+          url:  "https://soundcloud.com/{artistname}/{trackname}"
+        album:
+          url:  "https://soundcloud.com/{artistname}/sets/{albumname}"
+
+  spotify:
+    name: Spotify
+    desc: null
+    url:  https://www.spotify.com/us/
+    urls: {home: https://www.spotify.com/us/}
+    type: stream
+    free: false
+    icons: {img: ".png", ico: null, svg: ".svg"}
+
+  steam:
+    name: Steam Store
+    desc: null
+    url:  https://store.steampowered.com/
+    urls: {home: https://store.steampowered.com/}
+    type: dlc
+    free: false
+    icons: {img: ".png", ico: ".ico", svg: ".svg"}
+    format:
+      vars: [albumid, albumname]
+      kind:
+        album:
+          url:  "https://store.steampowered.com/app/{albumid}/{albumname}"
+
+  storenvy:
+    name: Storenvy
+    desc: null
+    url:  https://www.storenvy.com/
+    urls: {home: https://www.storenvy.com/}
+    type: store
+    free: false
+    icons: {img: ".png", ico: ".ico", svg: null}
+    format:
+      vars: [artistname, albumid, albumname]
+      kind:
+        artist:
+          url:  "https://{artistname}.storenvy.com/"
+        album:
+          url:  "https://{artistname}.storenvy.com/products/{albumid}-{albumname}"
+
+  youtube:
+    name: YouTube
+    desc: null
+    url:  https://www.youtube.com/
+    urls: {home: https://www.youtube.com/}
+    type: stream
+    free: true
+    icons: {img: ".png", ico: null, svg: ".svg"}
+
+  youtube_music:
+    name: YouTube Music
+    desc: null
+    url:  https://music.youtube.com/
+    urls: {home: https://music.youtube.com/}
+    type: stream
+    free: false
+    icons: {img: ".png", ico: null, svg: ".svg"}
+
+
+  # Related
+  nostalgia_music:
+    name: Nostalgia Music
+    desc: null
+    url:  http://nostalgiamusic.info/
+    urls: {home: http://nostalgiamusic.info/}
+    unused: true
+    type: download
+    lang: jp
+    free: true
+    icons: {img: null, ico: null, svg: null}
+
+languages:
+  en:
+    name:  English
+    code:  en
+    emoji: 🇬🇧
+    icon:  null
+  jp:
+    name:  Japanese
+    code:  ja
+    emoji: 🇯🇵
+    icon:  null
