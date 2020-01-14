@@ -78,7 +78,7 @@ For now, this page will document the proposed Album Order created for Sunrider: 
 |22|`Daydream_Alternate.ogg`|Daydream (alternate)|
 
 
-# Disc 03: Liberation Day
+## Disc 03: Liberation Day
 
 |\#|File|Title|
 |--|:---|:----|
