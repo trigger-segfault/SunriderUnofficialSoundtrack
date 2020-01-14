@@ -1,8 +1,8 @@
 # SUNRIDER: Soundtrack Tracks
 
 <!-- Navbar -->
-|NAVIGATE:|[Home](../..)|Tracks|[Originals](ORIGINALS.md)|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|
-|-|-|-|-|-|-|-|
+|NAVIGATE:|[Home](../..)|Tracks|[Originals](ORIGINALS.md)|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|[Order](ORDER.md)|
+|-|-|-|-|-|-|-|-|
 
 
 Below is a list dedicated to identifying **every** track in every Sunrider game and also giving a source to where it can be obtained.

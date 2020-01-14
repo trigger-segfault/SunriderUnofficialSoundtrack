@@ -21,9 +21,9 @@ albums:
     name:    "Nagoyaka Sawayaka"
     altname: "和やか・爽やか"
     translation:
-      english:  "Calm and Refreshing"
       romaji:   "Nagoyaka Sawayaka"
       japanese: "和やか・爽やか"
+      english:  "Calm and Refreshing"
     year:   2007
     sources:
       samfree-music:  &source@samfree-music+album@samfree-n
@@ -31,9 +31,9 @@ albums:
         name:    "Nagoyaka Sawayaka"
         altname: "和やか・爽やか"
         translation:
-          english:  "Calm and Refreshing"
           romaji:   "Nagoyaka Sawayaka"
           japanese: "和やか・爽やか"
+          english:  "Calm and Refreshing"
         year: 2007
         id:      "n"
         archived: {web: 20101011113851}
@@ -49,9 +49,9 @@ tracks:
     name:    "Sanpo"
     altname: "散歩"
     translation:
-      english:  "Stroll"
       romaji:   "Sanpo"
       japanese: "散歩"
+      english:  "Stroll"
     year:   2007
     files:
       MoA: [SAMFREE.ogg]
@@ -62,9 +62,9 @@ tracks:
         name:    "Sanpo"
         altname: "散歩"
         translation:
-          english:  "Stroll"
           romaji:   "Sanpo"
           japanese: "散歩"
+          english:  "Stroll"
         year:   2007
         number: 6
         id:       n06
@@ -87,7 +87,7 @@ tracks:
 # """
 
 # http://sam-free.com/
-# Website for a large collection of general use-case tracks created by SAM FREE Music
+# Website for a medium collection of general use-case tracks created by SAM FREE Music
 # that were made available for public use. Many tracks were available in both MP3 and
 # MIDI format. (however no MIDI formats were ever succesfully archived)
 # ------------

@@ -68,7 +68,7 @@ albums:
         artist: *source@jamendo+artist@epic-soul-factory
         name: Epic Soul Factory - Volume 1
         year: 2011
-        id:       105308/epic-soul-factory-volume-one
+        id:       85641/epic-soul-factory-volume-one
         archived: {audio: jamendo-085641, web: 20140706211839}
         url:      https://archive.org/details/jamendo-085641
         dl:       https://archive.org/compress/jamendo-085641

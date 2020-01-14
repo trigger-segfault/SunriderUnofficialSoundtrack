@@ -1,8 +1,8 @@
 # SUNRIDER: Non-Track Files to Ignore
 
 <!-- Navbar -->
-|NAVIGATE:|[Home](../..)|[Tracks](TRACKS.md)|[Originals](ORIGINALS.md)|Non-Tracks|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|
-|-|-|-|-|-|-|-|
+|NAVIGATE:|[Home](../..)|[Tracks](TRACKS.md)|[Originals](ORIGINALS.md)|Non-Tracks|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|[Order](ORDER.md)|
+|-|-|-|-|-|-|-|-|
 
 
 This is a list of audio files found in the game data's *music* folders that are *not* music.

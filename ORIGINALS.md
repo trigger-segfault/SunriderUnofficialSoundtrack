@@ -1,8 +1,8 @@
 # SUNRIDER: Soundtrack Originals
 
 <!-- Navbar -->
-|NAVIGATE:|[Home](../..)|[Tracks](TRACKS.md)|Originals|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|
-|-|-|-|-|-|-|-|
+|NAVIGATE:|[Home](../..)|[Tracks](TRACKS.md)|Originals|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|[Order](ORDER.md)|
+|-|-|-|-|-|-|-|-|
 
 
 This **is not** a comprehensive list of all available sources, there are many different sources besides these but it depends on what you need out of them.
