@@ -1,21 +1,32 @@
-# SUNRIDER: Non-Track Files to Ignore
+# Sunrider: Fanmade Tracks
 
 <!-- Navbar -->
-|NAVIGATE:|[Home](../..)|[Tracks](TRACKS.md)|[Originals](ORIGINALS.md)|[Fanmade](FANMADE.md)|Non-Tracks|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|[Order](ORDER.md)|
+|NAVIGATE:|[Home](../..)|[Tracks](TRACKS.md)|[Originals](ORIGINALS.md)|Fanmade|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|[Order](ORDER.md)|
 |-|-|-|-|-|-|-|-|-|
 
 
-This is a list of audio files found in the game data's *music* folders that are *not* music.
+A collection of fanmade tracks and remixes for the Sunrider series. Tracks listed here will give out all info provided by the creator.
 
 
-## Non-Tracks
+## Remix Tracks
 
-|Filename|Title|Notes|
-|:-------|:----|:----|
-|`chargeup.ogg` <kbd>MoA</kbd> <kbd>unused</kbd>|Black Jack Charge-up <kbd>SFX</kbd>|Black Jack's laser charge-up during the Battle of Far Port<br>`sound/chargeup.ogg`|
-|`Damaged 5.ogg` <kbd>MoA</kbd> <kbd>unused</kbd>|Sunrider Damaged 5 <kbd>Voice</kbd>|*AVA: "Shall I perform a tactical retreat, captain?"*<br>`sound/Voice/Ava/Ava Damage 5.ogg`
-|`shotgun.ogg` <kbd>MoA</kbd> <kbd>unused</kbd>|Kinetic Weapon <kbd>SFX</kbd>|Kinetic Cannon fire sound during regular combat<br>`sound/shotgun.ogg`|
-|`shower.ogg` <kbd>MoA</kbd><br>`Shower.ogg` <kbd>LD</kbd>|Shower <kbd>BG Loop</kbd>|Background loop for shower scenes|
+|Title|Artist|Creator|Notes|Date|URL|
+|:----|:-----|:------|:----|:---|:--|
+|Sora no Kodou<br><kbd>8-bit</kbd> <kbd>remix</kbd> <kbd>OP</kbd> <kbd>cut</kbd>|<sub>Original artist</sub><br>Iced Blade|<sub>Conversion by</sub><br>[Frederic G. Hipolito](http://hipolitofrederic.com/)|<sub>Commissioned by</sub><br>Snickett|<sub>Jan 7</sub><br>2020|[MP3/<sub>DL![][DL]</sub>](https://drive.google.com/file/d/1hRYYbWskLkNae0kc_kuYNJQcLSPaHII0/view?usp=drivesdk)
+
+<!--`op.webm`<br><kbd>LD</kbd> <kbd>OP</kbd> <kbd>cut</kbd> <kbd>video</kbd>-->
+
+
+## Terms of Use
+
+Below are the terms of use for each of the fanmade tracks listed above. *(If explicitly mentioned by the author)*
+
+### Sora no Kodou (8-bit remix): Terms of Use
+> **👤Snickett** on Discord in <sub>[<sup>📩</sup>Love in Space](https://discordapp.com/invite/lis) > [<sup>🔗</sup>#fanart](https://discordapp.com/channels/441207000362385418/551439645741678616/665975775312347136)<br>
+> Terms use for now:<br>
+> No resale<br>
+> Okay to use for any fan-produced Sunrider projects (mods, AMVs, etc)
+
 
 
 <!-- TESTING: Reference-style Icons -->

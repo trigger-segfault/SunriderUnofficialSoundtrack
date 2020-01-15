@@ -2,8 +2,8 @@
 
 <!-- TODO: Is this a valid Home URL method? -->
 <!-- Navbar -->
-|NAVIGATE:|Home|[Tracks](TRACKS.md)|[Originals](ORIGINALS.md)|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|[Order](ORDER.md)|
-|-|-|-|-|-|-|-|-|
+|NAVIGATE:|Home|[Tracks](TRACKS.md)|[Originals](ORIGINALS.md)|[Fanmade](FANMADE.md)|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|[Order](ORDER.md)|
+|-|-|-|-|-|-|-|-|-|
 
 
 Scripts and guides for ID'ing, gathering, and compiling the soundtracks for all Sunrider Games into albums.

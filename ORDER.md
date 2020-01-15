@@ -1,8 +1,8 @@
 # SUNRIDER: Unofficial Album Order
 
 <!-- Navbar -->
-|NAVIGATE:|[Home](../..)|[Tracks](TRACKS.md)|[Originals](ORIGINALS.md)|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|Order|
-|-|-|-|-|-|-|-|-|
+|NAVIGATE:|[Home](../..)|[Tracks](TRACKS.md)|[Originals](ORIGINALS.md)|[Fanmade](FANMADE.md)|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|Order|
+|-|-|-|-|-|-|-|-|-|
 
 
 For now, this page will document the proposed Album Order created for Sunrider: First Arrival, Mask of Arcadius, and Liberation Day. In the future, more options will be presented for customizing how the soundtrack album order is built, this is just a guildline based off research into each track's order-of-appearance.

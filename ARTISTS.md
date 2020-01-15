@@ -1,8 +1,8 @@
 # SUNRIDER: Soundtrack Artists
 
 <!-- Navbar -->
-|NAVIGATE:|[Home](../..)|[Tracks](TRACKS.md)|[Originals](ORIGINALS.md)|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|Artists|[Order](ORDER.md)|
-|-|-|-|-|-|-|-|-|
+|NAVIGATE:|[Home](../..)|[Tracks](TRACKS.md)|[Originals](ORIGINALS.md)|[Fanmade](FANMADE.md)|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|Artists|[Order](ORDER.md)|
+|-|-|-|-|-|-|-|-|-|
 
 
 ## Artists

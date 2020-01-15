@@ -1,8 +1,8 @@
 # SUNRIDER: Soundtrack Tracks
 
 <!-- Navbar -->
-|NAVIGATE:|[Home](../..)|Tracks|[Originals](ORIGINALS.md)|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|[Order](ORDER.md)|
-|-|-|-|-|-|-|-|-|
+|NAVIGATE:|[Home](../..)|Tracks|[Originals](ORIGINALS.md)|[Fanmade](FANMADE.md)|[Non-Tracks](NON_TRACKS.md)|[Albums](ALBUMS.md)|[Artists](ARTISTS.md)|[Order](ORDER.md)|
+|-|-|-|-|-|-|-|-|-|
 
 
 Below is a list dedicated to identifying **every** track in every Sunrider game and also giving a source to where it can be obtained.
@@ -10,7 +10,7 @@ Below is a list dedicated to identifying **every** track in every Sunrider game 
 All basic Metadata is given for tracks, although it may differ from the metadata in the game data. (Such as *One Day in August*)
 
 
-# Normal Tracks
+## Normal Tracks
 
 Tracks that not Sunrider Originals.
 
